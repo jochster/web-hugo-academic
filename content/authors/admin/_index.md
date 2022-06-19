@@ -32,7 +32,7 @@ organizations:
     url: https://ife.uni-hannover.de/
 education:
   courses:
-    - course: PhD candidate in Geodesy and Geoinformation
+    - course: Ph.D. candidate in Geodesy and Geoinformation
       institution: Leibniz University Hannover
       year: ""
     - course: M.Sc in Earth Oriented Space Science and Technology (ESPACE)
