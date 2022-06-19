@@ -18,7 +18,7 @@ abstract: Uncertainty modeling and bounding are of vital importance for
   polytopic solution set and zonotopic confidence region. We show their
   theoretical similarities and highlight different interpretations in practice.
   Nevertheless, both are sufficient to account for both random and systematic
-  components of uncertainty. ![screen reader text](img_9432.jpg "Presentation at iLoc")
+  components of uncertainty.
 location: Aachen, Germany
 date: 2022-06-05T08:30:03.212Z
 date_end: 2022-06-05T21:00:00.000Z
@@ -37,4 +37,5 @@ image:
   filename: img_9432.jpg
   focal_point: Smart
   preview_only: false
+  caption: Presentation at iLoc
 ---
