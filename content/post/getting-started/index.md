@@ -18,7 +18,7 @@ tags:
 categories: []
 projects: []
 image:
-  caption: ""
+  caption: My presentation at iLoc
   focal_point: ""
   placement: 2
   preview_only: false
