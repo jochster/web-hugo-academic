@@ -25,32 +25,35 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: suj@ife.uni-hannover.de
+  phone: +49 511 762 4542
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Schneiderberg 50
+    
+30167 Hannover
+
+    city: Hannover
+    #region: NI
+    postcode: '30167'
+    country: Germany
+    country_code: DE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    latitude: '52.3860'
+    longitude: '9.7130'
+  directions: Leibniz Universität Hannover, Institut für Erdmessung (IfE) | Building 3109 Room 402B
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
+  #contact_links:
+    #- icon: twitter
+      #icon_pack: fab
+      #name: DM Me
+      #link: 'https://twitter.com/Twitter'
+    #- icon: video
+      #icon_pack: fas
+      #name: Zoom Me
+      #link: 'https://zoom.com'
 
 design:
   columns: '2'
