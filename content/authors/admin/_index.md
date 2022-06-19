@@ -2,7 +2,7 @@
 title: Jingyao Su
 role: Doctoral researcher of GNSS navigation
 bio: My research interests include GNSS navigation, integrity monitoring and
-  interval mathematics.
+  uncertainty modeling with interval mathematics.
 interests:
   - GNSS
   - urban navigation
