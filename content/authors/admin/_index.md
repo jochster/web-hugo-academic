@@ -4,10 +4,13 @@ role: Doctoral researcher of GNSS navigation
 bio: My research interests include GNSS navigation, integrity monitoring and
   interval mathematics.
 interests:
-  - GNSS navigation
+  - GNSS
+  - urban navigation
   - integrity monitoring
+  - uncertainty modeling
   - interval mathematics
   - set theory
+  - state estimation
 social:
   - icon: envelope
     icon_pack: fas
