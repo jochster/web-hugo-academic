@@ -7,6 +7,7 @@ interests:
   - GNSS navigation
   - integrity monitoring
   - interval mathematics
+  - set theory
 social:
   - icon: envelope
     icon_pack: fas
