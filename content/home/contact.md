@@ -22,8 +22,8 @@ content:
     country: Germany
     country_code: DE
   coordinates:
-    latitude: "52.3860"
-    longitude: "9.7130"
+    latitude: "52.38584" 
+    longitude: "9.71336"
   directions: Leibniz Universität Hannover, Institut für Erdmessung (IfE) |
     Building 3109 Room 402B
 features:
