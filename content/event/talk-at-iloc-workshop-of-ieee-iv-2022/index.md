@@ -39,3 +39,6 @@ image:
   preview_only: false
   caption: Presentation at iLoc
 ---
+
+
+![screen reader text](image.jpg "caption")
