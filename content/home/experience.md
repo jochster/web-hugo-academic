@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Doctoral Researcher
-    company: Leibniz University Hannover
+  - title: 'Doctoral Researcher'
+    company: 'Leibniz University Hannover'
     company_url: 'www.uni-hannover.de'
     company_logo: 
-    location: Hannover, Germany
+    location: 'Hannover, Germany'
     date_start: '2020-07-15'
     date_end: ''
     description: |2-
@@ -34,44 +34,44 @@ experience:
         in the course of DFG research training group Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens).
 
 experience:
-  - title: R&D internship
-    company: Robert Bosch Group
+  - title: 'R&D internship'
+    company: 'Robert Bosch Group'
     company_url: 'https://www.bosch.de/'
     company_logo: 
-    location: Hildesheim, Germany
+    location: 'Hildesheim, Germany'
     date_start: '2019-04-16'
     date_end: '2019-10-15'
-    description: Research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area
+    description: 'Research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area'
     
 experience:
-  - title: Visiting student
-    company: GFZ Potsdam
+  - title: 'Visiting student'
+    company: 'GFZ Potsdam'
     company_url: 'https://www.gfz-potsdam.de/'
     company_logo: 
-    location: Potsdam, Germany
+    location: 'Potsdam, Germany'
     date_start: '2018-07-01'
     date_end: '2018-08-31'
-    description: 
+    description: ''
     
 experience:
-  - title: Research Assistant
-    company: Technical University of Munich
+  - title: 'Research Assistant'
+    company: 'Technical University of Munich'
     company_url: 'https://www.tum.de/'
     company_logo: 
-    location: Munich, Germany
+    location: 'Munich, Germany'
     date_start: '2018-04-01'
     date_end: '2019-03-31'
-    description: 
+    description: ''
    
 experience:
-  - title: Geomatics Engineer
-    company: Shenyang Institute for Geotechnical Investigation and Surveying
+  - title: 'Geomatics Engineer'
+    company: 'Shenyang Institute for Geotechnical Investigation and Surveying'
     company_url: 'https://www.024gis.com/'
     company_logo: 
-    location: Shenyang, China
+    location: 'Shenyang, China'
     date_start: '2015-08-01'
     date_end: '2017-08-31'
-    description: 
+    description: ''
     
 design:
   columns: '2'
