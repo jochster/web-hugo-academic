@@ -52,6 +52,16 @@ content:
       #name: Zoom Me
       #link: 'https://zoom.com'
 
+# map
+features:
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+content:
+  coordinates:
+    latitude: '52.3860'
+    longitude: '9.7130'
 design:
   columns: '2'
 ---
