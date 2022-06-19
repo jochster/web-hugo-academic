@@ -11,8 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: GNSS
+      tag: GNSS
+    - name: Integrity
+      tag: Integrity
     - name: Other
       tag: Demo
 design:
