@@ -33,6 +33,7 @@ authors:
 tags:
   - integrity
   - workshop
+  - i.c.sens
 image:
   filename: ""
   focal_point: Smart
