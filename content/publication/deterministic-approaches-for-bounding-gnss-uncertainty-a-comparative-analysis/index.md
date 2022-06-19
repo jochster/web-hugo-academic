@@ -6,6 +6,8 @@ publication_types:
 authors:
   - admin
   - Steffen Schön
+publication: 10th ESA Workshop on Satellite Navigation Technologies and European
+  Workshop on GNSS Signals and Signal Processing (NAVITEC)
 publication_short: NAVITEC2022
 abstract: Uncertainty modeling and bounding are of vital importance for
   high-integrity GNSS applications. Classical approaches are mostly developed in
@@ -36,5 +38,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: "This paper introduces two deterministic approaches for GNSS
+  uncertainty bounding and compares them with the conventional least-squares
+  method theoretically and experimentally with simulated and real measurements.
+  "
 date: 2022-06-19T17:39:00.969Z
 ---
