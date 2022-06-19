@@ -35,7 +35,7 @@ education:
     - course: PhD in Geodesy and Geoinformation
       institution: Leibniz University Hannover
       year: ""
-    - course: M.Sc in Earth Oriented Space Science and Technology
+    - course: M.Sc in Earth Oriented Space Science and Technology (ESPACE)
       institution: Technical University of Munich
       year: 2020
     - course: B.Sc in Geophysics
