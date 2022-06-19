@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Geodesy and Geoinformation
       institution: Leibniz University Hannover
-      year: 2023
+      year: ""
     - course: M.Sc in Earth Oriented Space Science and Technology
       institution: Technical University of Munich
       year: 2020
