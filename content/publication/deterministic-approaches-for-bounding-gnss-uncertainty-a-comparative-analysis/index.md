@@ -8,7 +8,7 @@ authors:
   - Steffen Schön
 publication: In *10th ESA Workshop on Satellite Navigation Technologies and
   European Workshop on GNSS Signals and Signal Processing (NAVITEC)*
-publication_short: In *NAVITEC2022*
+publication_short: In *NAVITEC 2022*
 abstract: Uncertainty modeling and bounding are of vital importance for
   high-integrity GNSS applications. Classical approaches are mostly developed in
   a stochastic manner with probabilistic assumptions. However, the exact error
