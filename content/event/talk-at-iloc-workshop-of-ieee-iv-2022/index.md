@@ -41,4 +41,3 @@ image:
 ---
 
 
-![screen reader text](image.jpg "caption")
