@@ -33,7 +33,6 @@ experience:
         Research topic: bounding and propagating uncertainty with interval mathematics 
         in the course of DFG research training group Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens).
 
-experience:
   - title: 'R&D internship'
     company: 'Robert Bosch Group'
     company_url: 'https://www.bosch.de/'
@@ -43,7 +42,6 @@ experience:
     date_end: '2019-10-15'
     description: 'Research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area'
     
-experience:
   - title: 'Visiting student'
     company: 'GFZ Potsdam'
     company_url: 'https://www.gfz-potsdam.de/'
@@ -53,7 +51,6 @@ experience:
     date_end: '2018-08-31'
     description: ''
     
-experience:
   - title: 'Research Assistant'
     company: 'Technical University of Munich'
     company_url: 'https://www.tum.de/'
@@ -63,7 +60,6 @@ experience:
     date_end: '2019-03-31'
     description: ''
    
-experience:
   - title: 'Geomatics Engineer'
     company: 'Shenyang Institute for Geotechnical Investigation and Surveying'
     company_url: 'https://www.024gis.com/'
