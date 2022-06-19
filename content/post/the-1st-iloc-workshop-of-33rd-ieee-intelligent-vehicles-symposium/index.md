@@ -24,3 +24,5 @@ On June 5th, we successfully organized the first iLoc workshop of 33rd IEEE Inte
 Details can be found [here](https://sites.google.com/view/iloc-2022/).
 
 I was honored to co-chair the afternoon sessions and additionally present my recent research "Deterministic approaches for bounding GNSS uncertainty: A comparative analysis".
+
+The introduction to the talk can be found [here](https://sujingyao.netlify.app/talk/talk-at-iloc-workshop-of-ieee-iv-2022/).
