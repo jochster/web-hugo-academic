@@ -2,8 +2,8 @@
 widget: pages
 widget_id: recent publication
 headless: true
-weight: 0
-title: Recent Publications
+weight: 65
+title: List of Publications
 subtitle: ""
 active: true
 content:
