@@ -46,6 +46,15 @@ experience:
     date_end: '2019-10-15'
     description: Research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area
     
+  - title: Visiting student
+    company: GFZ Potsdam
+    company_url: 'https://www.gfz-potsdam.de/'
+    company_logo: 
+    location: Potsdam, Germany
+    date_start: '2018-07-01'
+    date_end: '2018-08-31'
+    description: 
+    
   - title: Research Assistant
     company: Technical University of Munich
     company_url: 'https://www.tum.de/'
@@ -60,8 +69,8 @@ experience:
     company_url: 'https://www.024gis.com/'
     company_logo: sy
     location: Shenyang, China
-    date_start: '2017-08-01'
-    date_end: '2019-08-31'
+    date_start: '2015-08-01'
+    date_end: '2017-08-31'
     description: 
 
 design:
