@@ -22,7 +22,7 @@ abstract: Uncertainty modeling and bounding are of vital importance for
 location: Aachen, Germany
 date: 2022-06-05T08:30:03.212Z
 date_end: 2022-06-05T21:00:00.000Z
-all_day: true
+all_day: false
 event: The 1st iLoc workshop of 33rd IEEE Intelligent Vehicles Symposium
 event_url: https://sites.google.com/view/iloc-2022/
 publishDate: 2022-06-05T17:15:03.224Z
