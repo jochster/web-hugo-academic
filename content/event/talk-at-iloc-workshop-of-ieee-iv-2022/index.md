@@ -34,8 +34,11 @@ tags:
   - integrity
   - workshop
 image:
-  filename: img_9432.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
-  caption: Presentation at iLoc
+  caption: ""
 ---
+
+
+![Presentation at iLoc](img_9432.jpg)
