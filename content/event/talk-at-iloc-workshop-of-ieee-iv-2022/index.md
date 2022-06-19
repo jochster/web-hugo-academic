@@ -39,5 +39,3 @@ image:
   preview_only: false
   caption: Presentation at iLoc
 ---
-
-
