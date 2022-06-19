@@ -25,7 +25,7 @@ content:
     latitude: "52.38584" 
     longitude: "9.71336"
   directions: Leibniz Universität Hannover, Institut für Erdmessung (IfE) |
-    Building 3109 Room 402B
+    Building 3109, Room 402B
 features:
   map:
     provider: mapnik
