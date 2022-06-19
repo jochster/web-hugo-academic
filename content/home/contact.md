@@ -29,9 +29,6 @@ content:
   phone: +49 511 762 4542
   address:
     street: Schneiderberg 50
-    
-30167 Hannover
-
     city: Hannover
     #region: NI
     postcode: '30167'
