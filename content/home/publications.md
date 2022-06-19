@@ -5,6 +5,7 @@ headless: true
 weight: 0
 title: Recent Publications
 subtitle: ""
+active: true
 content:
   filters:
     folders:
