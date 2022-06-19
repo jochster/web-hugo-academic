@@ -47,6 +47,6 @@ highlight_name: true
 ---
 I am a doctoral researcher at the Institute of Geodesy (IfE), Leibniz Univerisity Hannover. 
 
-I work on the alternative integrity approach and interval uncertainty for GNSS. I'm with the DFG research training group i.c.sens.
+I work on the alternative integrity approach and interval uncertainty for GNSS. I'm with the DFG research training group Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
