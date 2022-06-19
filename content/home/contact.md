@@ -52,6 +52,11 @@ content:
       #name: Zoom Me
       #link: 'https://zoom.com'
 
+features:
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
 design:
   columns: '2'
 ---
