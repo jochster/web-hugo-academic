@@ -1,7 +1,9 @@
+---
 widget: accomplishments
-
+widget_id: awards
 headless: true 
-
+weight: 70
+title: awards
 date_format: Jan 2006
 
 item:
@@ -22,3 +24,4 @@ item:
     date_start: '2021-04-07'
     date_end: ''
     description: 'for the conference paper *Deterministic approaches for bounding GNSS uncertainty: A comparative analysis* at *NAVITEC 2022*'
+---
