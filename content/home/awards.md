@@ -1,5 +1,5 @@
 widget: accomplishments
-headless: true  # This file represents a page section.
+headless: true 
 
 date_format: Jan 2006
 
