@@ -20,12 +20,12 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 30
-  - name: Posts
+  - name: Recent Posts
     url: '#posts'
     weight: 30
-  - name: Awards
-    url: '#awards'
-    weight: 40
+#  - name: Awards
+#    url: '#awards'
+#    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
