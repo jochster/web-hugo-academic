@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: recent publication
+widget_id: peer-reviewed
 headless: true
 weight: 20
 title: 'Peer-Reviewed Literature'
