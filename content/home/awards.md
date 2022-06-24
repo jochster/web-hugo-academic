@@ -3,7 +3,7 @@ widget: accomplishments
 widget_id: awards
 headless: true 
 weight: 70
-title: awards
+title: Awards
 date_format: Jan 2006
 
 item:
@@ -12,7 +12,7 @@ item:
     title: Best presentation award
     url: ''
     certificate_url: ''
-    date_start: '2020-09-25'
+    date_start: '2021-09-25'
     date_end: ''
     description: 'for the conference paper *Improved observation interval bounding for GNSS urban navigation* at *ION GNSS+ 2021*'
     
@@ -21,7 +21,7 @@ item:
     title: Best student presentation award
     url: ''
     certificate_url: ''
-    date_start: '2021-04-07'
+    date_start: '2022-04-07'
     date_end: ''
     description: 'for the conference paper *Deterministic approaches for bounding GNSS uncertainty: A comparative analysis* at *NAVITEC 2022*'
 ---
