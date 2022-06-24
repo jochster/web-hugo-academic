@@ -17,15 +17,15 @@ main:
 #  - name: Projects
 #    url: '#projects'
 #    weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 30
+#  - name: Talks
+#    url: '#talks'
+#    weight: 30
   - name: Posts
     url: '#posts'
+    weight: 30
+  - name: Awards
+    url: '#awards'
     weight: 40
-#  - name: Awards
-#    url: '#awards'
-#    weight: 70
   - name: Contact
     url: '#contact'
     weight: 50
