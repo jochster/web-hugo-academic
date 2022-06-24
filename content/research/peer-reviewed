@@ -3,7 +3,7 @@ widget: pages
 widget_id: peer-reviewed
 headless: true
 weight: 20
-title: 'Peer-Reviewed Literature'
+title: Peer-Reviewed Literature
 subtitle: ""
 active: true
 content:
