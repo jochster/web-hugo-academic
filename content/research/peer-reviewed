@@ -6,18 +6,6 @@ weight: 20
 title: Peer-Reviewed Literature
 subtitle: ""
 active: true
-#content:
-#  filters:
-#    folders:
-#      - publication
-#    tag: ""
-#    category: ""
-#    publication_type: ""
-#    author: ""
-#    exclude_featured: false
-#    exclude_future: false
-#    exclude_past: false
-#  count: 0
 content:
   page_type: publication
   count: 5
