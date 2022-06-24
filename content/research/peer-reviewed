@@ -5,23 +5,33 @@ headless: true
 weight: 20
 title: Peer-Reviewed Literature
 subtitle: ""
-active: false
+active: true
+#content:
+#  filters:
+#    folders:
+#      - publication
+#    tag: ""
+#    category: ""
+#    publication_type: ""
+#    author: ""
+#    exclude_featured: false
+#    exclude_future: false
+#    exclude_past: false
+#  count: 0
 content:
+  page_type: publication
+  count: 5
   filters:
-    folders:
-      - publication
-    tag: ""
-    category: ""
-    publication_type: ""
     author: ""
+    category: ""
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  count: 0
+    publication_type: ""
   offset: 0
   order: desc
 design:
   view: citation
   columns: "2"
 ---
-
