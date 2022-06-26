@@ -8,7 +8,7 @@ date_end: 2021-06-28T22:00:00.000Z
 all_day: false
 event: IAG 2021 - Scientific Assembly of the International Association of Geodesy
 event_url: https://www.iag2021.com/
-publishDate: 2022-06-26T20:51:28.726Z
+publishDate: 2021-07-01T16:00:28.726Z
 draft: false
 featured: false
 authors:
