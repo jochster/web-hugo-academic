@@ -7,21 +7,39 @@ title: Awards & Certificates
 date_format: Jan 2006
 
 item:
-  - organization: Institute of Navigation
+  - organization: The Institute of Navigation (ION)
     organization_url: 'https://www.ion.org'
-    title: Best presentation award
+    title: Best Presentation Award
     url: ''
     certificate_url: ''
     date_start: '2021-09-25'
     date_end: ''
-    description: 'for the conference paper *Improved observation interval bounding for GNSS urban navigation* at *ION GNSS+ 2021*'
+    description: 'for the conference paper *Improved observation interval bounding for GNSS urban navigation*, presented at *ION GNSS+ 2021, The 34th International Technical Meeting of the Satellite Division of The Institute of Navigation*'
     
-  - organization: ESA EUPSA
+  - organization: The European Space Agency (ESA)
     organization_url: 'https://www.esa.org'
-    title: Best student presentation award
-    url: ''
+    title: Best Student Presentation Award
+    url: https://atpi.eventsair.com/navitec-2022
     certificate_url: ''
     date_start: '2022-04-07'
     date_end: ''
-    description: 'for the conference paper *Deterministic approaches for bounding GNSS uncertainty: A comparative analysis* at *NAVITEC 2022*'
+    description: 'for the conference paper *Deterministic approaches for bounding GNSS uncertainty: A comparative analysis*, presented at *NAVITEC 2022, The 10th ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing*'
+    
+  - organization: Wuhan University (WHU)
+    organization_url: 'https://www.whu.com.cn'
+    title: Wang Zhizhuo Innovation Talent Award
+    url: ''
+    certificate_url: ''
+    date_start: '2014-11'
+    date_end: ''
+    description: 'The first prize for outstanding bachelor students of geodesy-related programs'
+    
+   - organization: Education Commision, Chinese Society for Surveying and Mapping
+    organization_url: 'https://smp.whu.com.cn'
+    title: Zetai Cup Student Paper Competition in Geodesy
+    url: ''
+    certificate_url: ''
+    date_start: '2014-12'
+    date_end: ''
+    description: 'The first prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by Prof. Caijun Xu, Wuhan University'
 ---
