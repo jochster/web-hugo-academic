@@ -33,4 +33,13 @@ item:
     date_start: '2014-11'
     date_end: ''
     description: 'The first prize for outstanding bachelor students of geodesy-related programs'
+
+  - organization: Education Commision, Chinese Society for Surveying and Mapping
+    organization_url: 'https://smp.whu.com.cn'
+    title: Zetai Cup Student Paper Competition in Geodesy
+    url: ''
+    certificate_url: ''
+    date_start: '2014-12'
+    date_end: ''
+    description: 'The first prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by Prof. Caijun Xu, Wuhan University'
 ---
