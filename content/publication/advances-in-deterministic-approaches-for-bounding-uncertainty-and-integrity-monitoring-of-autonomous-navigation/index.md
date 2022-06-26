@@ -9,6 +9,14 @@ authors:
 publication: accepted by *ION GNSS+ 2022*
 draft: false
 featured: true
+tags:
+  - urnabnavigation
+  - GNSS
+  - error bounding
+  - interval mathematics
+  - uncertainty modeling
+  - Multipath effect
+  - Fault Detection and Exclusion
 image:
   filename: featured
   focal_point: Smart
