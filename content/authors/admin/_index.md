@@ -23,7 +23,7 @@ social:
       header: false
     link: https://orcid.org/0000-0002-5086-0178
     icon_pack: fab
-    icon: orcid
+    icon: fa-orcid
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jingyao-Su-4
