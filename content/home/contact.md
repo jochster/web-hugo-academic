@@ -7,12 +7,12 @@ title: Contact
 subtitle: null
 content:
   autolink: true
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    ? id
+  #  netlify:
+  #    captcha: false
   email: suj@ife.uni-hannover.de
   phone: +49 511 762 4542
   address:
