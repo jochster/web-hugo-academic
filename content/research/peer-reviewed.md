@@ -4,7 +4,7 @@ widget_id: peer-reviewed
 headless: true
 weight: 20
 title: Peer-reviewed literature
-subtitle: ""
+subtitle: Journal and conference papers
 active: true
 content:
   filters:
