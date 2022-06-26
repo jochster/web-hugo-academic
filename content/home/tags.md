@@ -3,6 +3,7 @@ widget: tag_cloud
 widget_id: tag
 headless: false
 weight: 70
+active: false
 title: Popular Topics
 subtitle: ""
 content:
