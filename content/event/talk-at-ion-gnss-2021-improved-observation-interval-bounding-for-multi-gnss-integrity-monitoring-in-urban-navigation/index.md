@@ -9,7 +9,7 @@ date_end: 2021-09-24T14:00:00.000Z
 all_day: false
 event: ION GNSS+ 2021
 event_url: https://www.ion.org/gnss/index.cfm
-publishDate: 2022-06-26T20:54:59.940Z
+publishDate: 2021-09-24T16:00:59.940Z
 draft: false
 featured: false
 authors:
