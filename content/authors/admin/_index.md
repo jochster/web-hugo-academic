@@ -26,7 +26,7 @@ social:
     icon_pack: ai
     icon: orcid
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Jingyao-Su-4
   - icon: google-scholar
     icon_pack: ai
