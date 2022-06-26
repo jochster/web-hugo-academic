@@ -1,11 +1,11 @@
 ---
 widget: pages
-widget_id: recent publication
+widget_id: peer-reviewed
 headless: true
-weight: 65
-title: List of Publications
+weight: 20
+title: Peer-reviewed literature
 subtitle: ""
-active: false
+active: true
 content:
   filters:
     folders:
