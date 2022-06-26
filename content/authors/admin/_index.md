@@ -6,7 +6,7 @@ bio: My research interests include GNSS navigation, integrity monitoring and
 interests:
   - GNSS
   - urban navigation
-  - autonomous vehicles
+  - localization for autonomous vehicles
   - integrity monitoring
   - uncertainty modeling
   - interval mathematics
