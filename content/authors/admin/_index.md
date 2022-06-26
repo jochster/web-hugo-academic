@@ -19,10 +19,15 @@ social:
   - icon: building-columns
     icon_pack: fas
     link: https://www.ife.uni-hannover.de/de/team/jingyao-su/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-5086-0178
+    icon_pack: fab
+    icon: orcid
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jingyao-Su-4
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=A4OTJJ0AAAAJ
   - icon: linkedin
