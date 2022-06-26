@@ -6,6 +6,7 @@ bio: My research interests include GNSS navigation, integrity monitoring and
 interests:
   - GNSS
   - urban navigation
+  - autonomous vehicles
   - integrity monitoring
   - uncertainty modeling
   - interval mathematics
@@ -33,13 +34,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. candidate in Geodesy and Geoinformation
-      institution: Leibniz University Hannover
+      institution: Leibniz University Hannover, Germany
       year: expected in 2023
     - course: M.Sc in Earth Oriented Space Science and Technology (ESPACE)
-      institution: Technical University of Munich
+      institution: Technical University of Munich, Germany
       year: 2020
     - course: B.Sc in Geophysics
-      institution: Wuhan University
+      institution: Wuhan University, China
       year: 2015
 email: suj@ife.uni-hannover.de
 superuser: true
