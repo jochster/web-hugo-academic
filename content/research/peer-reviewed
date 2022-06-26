@@ -1,11 +1,11 @@
 ---
 widget: pages
-widget_id: peer reviewed
+widget_id: recent publication
 headless: true
-weight: 20
-title: Peer-reviewed literature
+weight: 65
+title: List of Publications
 subtitle: ""
-active: true
+active: false
 content:
   filters:
     folders:
@@ -24,3 +24,7 @@ design:
   view: citation
   columns: "2"
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
