@@ -34,14 +34,14 @@ education:
   courses:
     - course: Ph.D. candidate in Geodesy and Geoinformation
       institution: Leibniz University Hannover
-      year: ""
+      year: expected in 2023
     - course: M.Sc in Earth Oriented Space Science and Technology (ESPACE)
       institution: Technical University of Munich
       year: 2020
     - course: B.Sc in Geophysics
       institution: Wuhan University
       year: 2015
-email: ""
+email: suj@ife.uni-hannover.de
 superuser: true
 highlight_name: true
 ---
