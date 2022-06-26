@@ -3,7 +3,7 @@ widget: pages
 widget_id: post
 headless: true
 weight: 30
-title: Recent Posts
+title: Recent Blogs
 subtitle: null
 content:
   filters:
