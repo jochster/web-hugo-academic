@@ -10,7 +10,7 @@ publication: accepted by *ION GNSS+ 2022*
 draft: false
 featured: true
 tags:
-  - urnabnavigation
+  - urban navigation
   - GNSS
   - error bounding
   - interval mathematics
