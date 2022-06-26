@@ -3,8 +3,8 @@ widget: pages
 widget_id: presentation
 headless: true
 weight: 30
-title: Posters | Presentations
-subtitle: null
+title: Posters & Presentations
+subtitle: Talks and poster presentations at conferences
 content:
   page_type: event
   count: 5
