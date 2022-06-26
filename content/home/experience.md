@@ -5,7 +5,7 @@ experience:
   - title: Doctoral Researcher
     company: Leibniz University Hannover
     company_url: www.uni-hannover.de
-    company_logo: null
+    company_logo: luhLogo
     location: Hannover, Germany
     date_start: 2020-07-15
     date_end: ""
@@ -15,7 +15,7 @@ experience:
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
-    company_logo: null
+    company_logo: Bosch
     location: Hildesheim, Germany
     date_start: 2019-04-16
     date_end: 2019-10-15
@@ -32,7 +32,7 @@ experience:
   - title: Research Assistant
     company: Technical University of Munich
     company_url: https://www.tum.de/
-    company_logo: null
+    company_logo: TUM_logo
     location: Munich, Germany
     date_start: 2018-04-01
     date_end: 2019-03-31
