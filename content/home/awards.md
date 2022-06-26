@@ -24,4 +24,13 @@ item:
     date_start: '2022-04-07'
     date_end: ''
     description: 'for the conference paper *Deterministic approaches for bounding GNSS uncertainty: A comparative analysis*, presented at *NAVITEC 2022, The 10th ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing*'
+    
+  - organization: Wuhan University (WHU)
+    organization_url: 'https://www.whu.com.cn'
+    title: Wang Zhizhuo Innovation Talent Award
+    url: ''
+    certificate_url: ''
+    date_start: '2014-11'
+    date_end: ''
+    description: 'The first prize for outstanding bachelor students of geodesy-related programs'
 ---
