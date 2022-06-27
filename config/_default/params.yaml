@@ -18,14 +18,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Doctoral researcher of GNSS navigation, at Institut für Erdmessung, Leibniz University Hannover, with DFG RTG i.c.sens.'
+    twitter: 'jingyao_su'
   analytics:
     google_analytics: 'G-ZNJDF9Y8Z5'
     baidu_tongji: ''
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 
