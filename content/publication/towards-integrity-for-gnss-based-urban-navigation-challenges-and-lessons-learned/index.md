@@ -31,9 +31,7 @@ image:
   caption: In the framework of the Research Training Group i.c.sens, various
     collaborative positioning experiments were carried out in the urban
     environment around the campus.
-  alt_text: '![screen reader text](featured.jpg "In the framework of the Research
-    Training Group i.c.sens, various collaborative positioning experiments were
-    carried out in the urban environment around the campus.")'
+  alt_text: ""
 summary: For safety critical applications like autonomous driving, high trust in
   the reported navigation solution is mandatory. This trust can be expressed by
   the navigation performance parameters, especially integrity. Multipath errors
@@ -53,4 +51,4 @@ To measure the integrity of urban navigation, we developed alternative set-based
 
 
 
-![](featured.jpg "In the framework of the Research Training Group i.c.sens, various collaborative positioning experiments were carried out in the urban environment around the campus.")
+![](3d_city_model_hannover_geoinfo5.png "In the framework of the Research Training Group i.c.sens, various collaborative positioning experiments were carried out in the urban environment around the campus.")
