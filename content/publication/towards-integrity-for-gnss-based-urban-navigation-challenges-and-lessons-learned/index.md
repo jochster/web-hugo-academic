@@ -39,6 +39,5 @@ image:
   caption: In the framework of the Research Training Group i.c.sens, various
     collaborative positioning experiments were carried out in the urban
     environment around the campus.
-url_pdf:https://www.researchgate.net/publication/360938638_Towards_Integrity_for_GNSS-based_urban_navigation_-_challenges_and_lessons_learned
 date: 2022-06-05T18:00:35.596Z
 ---
