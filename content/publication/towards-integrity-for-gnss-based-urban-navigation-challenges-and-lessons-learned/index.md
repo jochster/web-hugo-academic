@@ -41,6 +41,8 @@ summary: For safety critical applications like autonomous driving, high trust in
   complex measurement environment should be sufficiently understood.
 date: 2022-06-05T18:00:35.596Z
 ---
+![](3d_city_model_hannover_geoinfo5.png "In the framework of the Research Training Group i.c.sens, various collaborative positioning experiments were carried out in the urban environment around the campus.")
+
 For safety critical applications like autonomous driving, high trust in the reported navigation solution is mandatory. This trust can be expressed by the navigation performance parameters, especially integrity. Multipath errors are the most challenging error source in GNSS since only partial correction is possible. In order to ensure high integrity of GNSS-based urban navigation, signal propagation mechanisms and the potential error sources induced by the complex measurement environment should be sufficiently understood. 
 
 
@@ -48,7 +50,3 @@ In this contribution, we report on recent progress on this topic in our group. W
 
 
 To measure the integrity of urban navigation, we developed alternative set-based approaches in addition to the classical stochastic approach. Based on interval mathematics and geometrical constraints, they are sufficient to bound remaining systematic uncertainty and feasible for integrity applications.
-
-
-
-![](3d_city_model_hannover_geoinfo5.png "In the framework of the Research Training Group i.c.sens, various collaborative positioning experiments were carried out in the urban environment around the campus.")
