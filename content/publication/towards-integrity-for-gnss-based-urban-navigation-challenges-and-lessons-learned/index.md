@@ -24,13 +24,6 @@ tags:
   - autonomous driving
   - Multipath effect
   - interval mathematics
-links:
-  - url:''
-    name: DOI
-  - url: https://mediatum.ub.tum.de/node?id=1554476
-    name: ResearchGate
-  - url: mailto:suj@ife.uni-hannover.de
-    name: PDF request
 image:
   filename: featured.png
   focal_point: Smart
