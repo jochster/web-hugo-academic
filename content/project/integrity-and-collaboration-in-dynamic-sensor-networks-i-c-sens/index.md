@@ -25,4 +25,6 @@ The Research Training Group 2159 "*Integrity and Collaboration in Dynamic Sensor
 
 # Background
 
-How can the trustworthiness of automated and autonomous systems (integrity) be ensured so that they do not pose a threat to humans? And how can collaboration between the different sensors of such systems be used to achieve this? The PhD students of the Research Training Group i.c.sens. are researching these problems. Since December 2016, the DFG provides the funding for the RTG for 4½ years by financing 9 PhD positions and one postdoctoral position.
+How can the trustworthiness of automated and autonomous systems (integrity) be ensured so that they do not pose a threat to humans? And how can collaboration between the different sensors of such systems be used to achieve this? The PhD students of the Research Training Group i.c.sens. are researching these problems. Since December 2016, the DFG provides the funding for the RTG for 9 years by financing 3 cohorts, each of which is comprised of 9 PhD positions and one postdoctoral position. 
+
+
