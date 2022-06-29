@@ -1,8 +1,6 @@
 ---
-title: "Talk at FROGS 2021: On the Geometrical Constraints for Interval-based
-  GNSS Positioning"
-abstract: On the Geometrical Constraints for Interval-based GNSS Positioning,
-  Frontiers of Geodetic Science 2021
+title: On the Geometrical Constraints for Interval-based GNSS Positioning
+abstract: Talk at Frontiers of Geodetic Science (FROGS) 2021
 location: Hannover, Germany
 date: 2021-09-24T13:00:05.420Z
 date_end: 2021-09-24T14:00:00.000Z
@@ -20,7 +18,9 @@ tags:
   - interval mathematics
   - uncertainty modeling
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: "The concept of interval-based positioning: a polytopic set solution"
 ---
+Unlike classical GNSS positioning approaches based on probabilistic assumptions, the alternative interval-based approach depends on deterministic interval bounds as inputs. Making use of convex optimization, observation intervals are transferred to the position domain in the form of convex polytopes, which satisfies the geometrical constraints imposed by the observation intervals. The main advantages of this approach are that it is free of assumptions about the probability distributions and that it has intrinsically a linear uncertainty propagation different from quadratic variance propagation. In this contribution, we will show how the shape and volume of the resultant polytopes are related to the positioning geometry. Experimental results from real data will also be illustrated for validation.
