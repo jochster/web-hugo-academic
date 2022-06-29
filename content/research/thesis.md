@@ -12,7 +12,7 @@ content:
     - name: All
       tag: "*"
     - name: M.Sc
-      tag: master thesis
+      tag: Master Thesis
     - name: Other
       tag: Demo
 design:
