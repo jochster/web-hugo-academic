@@ -45,7 +45,7 @@ tags:
   - uncertainty modeling
   - error bounding
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: In this contribution, we make a proposal on how to derive the required
