@@ -1,21 +1,23 @@
 ---
-title: Master's Thesis: Precise Point Positioning with Ambiguity Resolution for Different Signals
-date: 2020-06-22T16:00:57.391Z
-summary: My Master's thesis at the [Institute for Astronomical and Physical Geodesy (IAPG)](https://www.asg.ed.tum.de/iapg/) at the Technical University of Munich (TUM), under the supervision of Prof. Urs Hugentobler and Dr. Bingbing Duan.
+title: Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens)
+date: 2020-07-15T16:00:57.391Z
+summary: The Research Training Group 2159 "*Integrity and Collaboration in
+  Dynamic Sensor Networks*" (**i.c.sens**) is a joint research and doctoral
+  program at [Leibniz Universität Hannover](uni-hannover.de) funded by the
+  [German Research Foundation (DFG)](dfg.de).
 draft: false
 featured: false
 authors:
   - admin
 tags:
-  - Master Thesis
-  - ambiguity resolution
-  - GNSS
-  - Precise Point Positioning
+  - i.c.sens
+  - integrity
+  - sensor fusion
 links:
-  - url: https://mediatum.ub.tum.de/node?id=1554476
+  - url: https://www.icsens.uni-hannover.de/
     name: Link
 image:
-  filename: ''
+  filename: https://www.icsens.uni-hannover.de/fileadmin/site-templates/logos/icsens/ICSENS_logo.png
   focal_point: Smart
   preview_only: false
 ---
