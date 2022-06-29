@@ -1,7 +1,7 @@
 ---
-title: "Poster at IAG Scientific Assembly 2021: Bounding the residual
-  tropospheric error by interval analysis"
-abstract: Bounding the residual tropospheric error by interval analysis
+title: Bounding the residual tropospheric error by interval analysis
+abstract: Poster presentation at *IAG 2021 - Scientific Assembly of the
+  International Association of Geodesy*
 location: Virtual, Beijing, China
 date: 2021-06-29T08:00:28.696Z
 date_end: 2021-06-28T22:00:00.000Z
@@ -21,7 +21,7 @@ tags:
   - integrity
   - uncertainty modeling
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
