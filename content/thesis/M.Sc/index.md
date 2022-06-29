@@ -14,6 +14,8 @@ tags:
 links:
   - url: https://mediatum.ub.tum.de/node?id=1554476
     name: Link
+  - url: mailto:suj@ife.uni-hannover.de
+    name: PDF request
 image:
   filename: ''
   focal_point: Smart
