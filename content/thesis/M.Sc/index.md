@@ -1,10 +1,7 @@
 ---
 title: Precise Point Positioning with Ambiguity Resolution for Different Signals
 date: 2020-06-22T16:00:57.391Z
-summary: The Research Training Group 2159 "*Integrity and Collaboration in
-  Dynamic Sensor Networks*" (**i.c.sens**) is a joint research and doctoral
-  program at [Leibniz Universität Hannover](uni-hannover.de) funded by the
-  [German Research Foundation (DFG)](dfg.de).
+summary: My Master's thesis at the [Institute for Astronomical and Physical Geodesy (IAPG)](https://www.asg.ed.tum.de/iapg/) at the Technical University of Munich (TUM), under the supervision of Prof. Urs Hugentobler and Dr. Bingbing Duan.
 draft: false
 featured: false
 authors:
