@@ -35,11 +35,8 @@ tags:
   - workshop
   - i.c.sens
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: ""
 ---
-
-
-![Presentation at iLoc](img_9432.jpg)
