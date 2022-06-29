@@ -1,6 +1,6 @@
 ---
-title: Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens)
-date: 2020-07-15T16:00:57.391Z
+title: Precise Point Positioning with Ambiguity Resolution for Different Signals
+date: 2020-06-22T16:00:57.391Z
 summary: The Research Training Group 2159 "*Integrity and Collaboration in
   Dynamic Sensor Networks*" (**i.c.sens**) is a joint research and doctoral
   program at [Leibniz Universität Hannover](uni-hannover.de) funded by the
@@ -10,14 +10,15 @@ featured: false
 authors:
   - admin
 tags:
-  - i.c.sens
-  - integrity
-  - sensor fusion
+  - Master Thesis
+  - ambiguity resolution
+  - GNSS
+  - Precise Point Positioning
 links:
-  - url: https://www.icsens.uni-hannover.de/
+  - url: https://mediatum.ub.tum.de/node?id=1554476
     name: Link
 image:
-  filename: https://www.icsens.uni-hannover.de/fileadmin/site-templates/logos/icsens/ICSENS_logo.png
+  filename: ''
   focal_point: Smart
   preview_only: false
 ---
