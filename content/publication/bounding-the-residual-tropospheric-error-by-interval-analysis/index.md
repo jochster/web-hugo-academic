@@ -34,6 +34,8 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Distribution of interval bounds for different meteorological parameters
+    in Germany
 summary: We make a proposal on how to derive the required intervals in order to
   quantify and bound the residual error for empirical troposphere models. We
   revise and refine the alternative approach based on interval analysis. This
