@@ -16,6 +16,8 @@ links:
   icon: book
 - name: PDF request
   url: mailto:suj@ife.uni-hannover.de
+  icon_pack: fas
+  icon: envelope
 tags:
   - urban navigation
   - GNSS
