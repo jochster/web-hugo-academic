@@ -6,6 +6,11 @@ location: Virtual, Noordwijk, The Netherlands
 date: 2022-04-06T12:20:35.227Z
 date_end: 2022-04-06T12:32:00.000Z
 all_day: false
+links:
+  - url: https://atpi.eventsair.com/navitec-2022
+    name: Conference
+    icon_pack: fas
+    icon: book
 event: NAVITEC 2022
 event_url: https://atpi.eventsair.com/navitec-2022/
 publishDate: 2022-04-07T09:35:35.238Z
