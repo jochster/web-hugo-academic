@@ -32,7 +32,7 @@ links:
   url: mailto:suj@ife.uni-hannover.de
 - name: ResearchGate
   url: https://www.researchgate.net/publication/360423056_Deterministic_Approaches_for_Bounding_GNSS_Uncertainty_A_Comparative_Analysis
-  icon_pack: fab
+  icon_pack: ai
   icon: researchgate
 tags:
   - GNSS
