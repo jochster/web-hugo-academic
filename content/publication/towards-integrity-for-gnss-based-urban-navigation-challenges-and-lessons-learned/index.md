@@ -17,6 +17,19 @@ publication_short: In *IEEE IV 2022*
 abstract: ""
 draft: false
 featured: true
+links: 
+- name: Conference
+  url: https://www.iv2022.com
+  icon_pack: fas
+  icon: book
+- name: PDF request
+  icon_pack: fas
+  icon: envelope
+  url: mailto:suj@ife.uni-hannover.de
+- name: ResearchGate
+  url: https://www.researchgate.net/publication/360938638_Towards_Integrity_for_GNSS-based_urban_navigation_-_challenges_and_lessons_learned
+  icon_pack: ai
+  icon: researchgate
 tags:
   - urban navigation
   - GNSS
