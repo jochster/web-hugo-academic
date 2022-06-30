@@ -3,7 +3,7 @@ widget: accomplishments
 widget_id: awards
 headless: true 
 weight: 70
-title: Awards & Certificates
+title: Awards & Honors
 date_format: Jan 2006
 
 item:
