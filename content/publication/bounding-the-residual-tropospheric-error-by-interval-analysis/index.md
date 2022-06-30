@@ -23,16 +23,16 @@ draft: false
 featured: true
 links: 
 - name: Conference
-  url: https://atpi.eventsair.com/navitec-2022
+  url: ''
   icon_pack: fas
   icon: book
 - name: PDF request
   icon_pack: fas
   icon: envelope
   url: mailto:suj@ife.uni-hannover.de
-- name: RG link
+- name: ResearchGate
   url: ''
-  icon_pack: fas
+  icon_pack: fab
   icon: researchgate
 tags:
   - troposphere
