@@ -10,8 +10,12 @@ experience:
     date_start: 2020-07-15
     date_end: ""
     description: >-2
-        Research topic: bounding and propagating uncertainty with interval mathematics 
+        PhD research topic: bounding and propagating uncertainty with interval mathematics 
         in the course of DFG research training group Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens).
+        Responsibilities included:
+        - Research and scientific collaborations in the RTG
+        - Organization, setup, conduction and documentation of multi-sensory measurement compaigns (Mapathon)
+        - Participation in teaching activties at the PosNav group of IfE
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
@@ -40,7 +44,7 @@ experience:
   - title: Geomatics Engineer
     company: Shenyang Institute for Geotechnical Investigation and Surveying
     company_url: https://www.024gis.com/
-    company_logo: null
+    company_logo: sy
     location: Shenyang, China
     date_start: 2015-08-01
     date_end: 2017-08-31
@@ -49,7 +53,7 @@ widget_id: experience
 headless: true
 weight: 20
 title: Experience
-subtitle: null
+subtitle: Highlights from employment & experience.
 design:
   columns: "2"
 ---
