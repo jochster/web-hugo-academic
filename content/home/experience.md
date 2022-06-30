@@ -10,12 +10,13 @@ experience:
     date_start: 2020-07-15
     date_end: ""
     description: >-2
-        PhD research topic: bounding and propagating uncertainty with interval mathematics 
-        in the course of DFG research training group Integrity and Collaboration in Dynamic Sensor Networks (i.c.sens).
+        PhD research topic: *bounding and propagating uncertainty with interval mathematics*
+        
+        in the course of DFG research training group [*Integrity and Collaboration in Dynamic Sensor Networks* (i.c.sens)](https://icsens.uni-hannover.de).
         Responsibilities included:
         - Research and scientific collaborations in the RTG
         - Organization, setup, conduction and documentation of multi-sensory measurement compaigns (Mapathon)
-        - Participation in teaching activties at the PosNav group of IfE
+        - Participation in teaching activties at the PosNav group of the Institute for Geodesy (IfE)
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
