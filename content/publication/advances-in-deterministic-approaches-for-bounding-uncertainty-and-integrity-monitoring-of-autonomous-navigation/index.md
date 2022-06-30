@@ -15,9 +15,13 @@ links:
   icon_pack: fas
   icon: book
 - name: PDF request
-  url: mailto:suj@ife.uni-hannover.de
   icon_pack: fas
   icon: envelope
+  url: mailto:suj@ife.uni-hannover.de
+- name: ResearchGate
+  url: ''
+  icon_pack: ai
+  icon: researchgate
 tags:
   - urban navigation
   - GNSS
