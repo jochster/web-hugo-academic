@@ -21,10 +21,19 @@ abstract: >-
   This paper introduces two deterministic approaches for GNSS uncertainty bounding and compares them with the conventional least-squares method theoretically and experimentally with simulated and real measurements. Both methods use deterministic intervals to denote observation uncertainty, subsequently following a linear uncertainty propagation instead of quadratic one. The interval extension of least-squares transfers the uncertainty into the position domain in the form of zonotope and further bound the stochasticity by the extended point confidence domain. As a comparison, the other method takes advantage of geometrical constraints and convex optimization, leading to a polytopic solution set and zonotopic confidence region. We show their theoretical similarities and highlight different interpretations in practice. Nevertheless, both are sufficient to account for both random and systematic components of uncertainty.
 draft: false
 featured: true
-url_pdf: https://www.researchgate.net/publication/360423056_Deterministic_Approaches_for_Bounding_GNSS_Uncertainty_A_Comparative_Analysis
 links: 
+- name: Conference
+  url: https://atpi.eventsair.com/navitec-2022
+  icon_pack: fas
+  icon: book
 - name: PDF request
+  icon_pack: fas
+  icon: envelope
+  url: mailto:suj@ife.uni-hannover.de
+- name: RG link
   url: https://www.researchgate.net/publication/360423056_Deterministic_Approaches_for_Bounding_GNSS_Uncertainty_A_Comparative_Analysis
+  icon_pack: fas
+  icon: researchgate
 tags:
   - GNSS
   - integrity
