@@ -9,6 +9,13 @@ authors:
 publication: accepted by *ION GNSS+ 2022*
 draft: false
 featured: true
+links: 
+- name: Conference
+  url: https://www.ion.org/gnss/index.cfm
+  icon_pack: fas
+  icon: book
+- name: PDF request
+  url: mailto:suj@ife.uni-hannover.de
 tags:
   - urban navigation
   - GNSS
