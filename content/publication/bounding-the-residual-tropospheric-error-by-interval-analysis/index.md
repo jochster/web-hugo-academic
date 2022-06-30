@@ -21,6 +21,19 @@ abstract: >-
   Following this strategy, we evaluated the Saastamoinen model with a priori ISO standard atmosphere. For comparison, results with on-site measurements as inputs are also assessed. To this end, experiments using meteorological data from IGS and Deutscher Wetterdienst (DWD) stations are conducted. We obtain consistent and complete enclosure of residual ZPD errors w.r.t IGS ZPD products. Thanks to the DWD dense network, interval maps for meteorological parameters and residual ZPD errors are generated for Germany as by-products. These experimental results and products are finally validated, taking advantage of the high-quality tropospheric delays estimated by the Vienna Ray Tracer. Overall, the results indicate that our strategy based on interval analysis is feasible for the bounding of tropospheric model uncertainty. This will contribute to a realistic uncertainty assessment of GNSS-based single point positioning.
 draft: false
 featured: true
+links: 
+- name: Conference
+  url: https://atpi.eventsair.com/navitec-2022
+  icon_pack: fas
+  icon: book
+- name: PDF request
+  icon_pack: fas
+  icon: envelope
+  url: mailto:suj@ife.uni-hannover.de
+- name: RG link
+  url: ''
+  icon_pack: fas
+  icon: researchgate
 tags:
   - troposphere
   - residual tropospheric delay
