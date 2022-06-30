@@ -19,7 +19,7 @@ featured: false
 tags:
   - GNSS
   - integrity
-  - uncertainty moodeling
+  - uncertainty modeling
   - error bounding
   - zonotope
   - polytope
