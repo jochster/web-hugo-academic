@@ -32,7 +32,7 @@ links:
   url: mailto:suj@ife.uni-hannover.de
 - name: ResearchGate
   url: ''
-  icon_pack: fab
+  icon_pack: ai
   icon: researchgate
 tags:
   - troposphere
