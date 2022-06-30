@@ -22,8 +22,8 @@ abstract: >-
 draft: false
 featured: true
 links: 
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
+- name: PDF request
+  url: https://www.researchgate.net/publication/360423056_Deterministic_Approaches_for_Bounding_GNSS_Uncertainty_A_Comparative_Analysis
 tags:
   - GNSS
   - integrity
