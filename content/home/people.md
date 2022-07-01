@@ -11,8 +11,7 @@ date_format: Jan 2006
 content:
   user_groups:
     - Supervisors
-    - Collaborators
-    - Colleagues    
+    - Colleagues & Collaborators
 design:
   # Show user's social networking links? (true/false)
   show_social: true
