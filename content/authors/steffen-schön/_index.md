@@ -13,4 +13,4 @@ superuser: false
 user_groups:
   - Supervisors
 ---
-Steffen Schön is professor for positioning and navigation at IfE since 2006. His research interests are the correction and assessment of systematic errors in GNSS, absolute antenna calibration, receiver clock modeling, and improved stochastic models for GNSS observations based in turbulence theory. He is the spokesman of the DFG research training group integrity and collaboration in dynamic sensor networks (i.c.sens) working on interval mathematics for integrity and collaborative navigation.
+Steffen Schön is professor for positioning and navigation at IfE since 2006. His research interests are the correction and assessment of systematic errors in GNSS, absolute antenna calibration, receiver clock modeling, and improved stochastic models for GNSS observations based in turbulence theory. He is the spokesman of the DFG research training group [*integrity and collaboration in dynamic sensor networks* (i.c.sens)](https://icsens.uni-hannover.de) working on interval mathematics for integrity and collaborative navigation.
