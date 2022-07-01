@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Doctoral Researcher
-    company: Leibniz University Hannover
+    company: Leibniz University Hannover, Institut für Erdmessung (IfE)
     company_url: https://www.uni-hannover.de
     company_logo: luh
     location: Hannover, Germany
@@ -15,7 +15,7 @@ experience:
         Responsibilities included:
         - Research and scientific collaborations in the RTG
         - Organization, setup, conduction and documentation of multi-sensory measurement compaigns (Mapathon)
-        - Participation in teaching activties at the [PosNav group](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/)) of the [Institute for Geodesy (IfE)](https://ife.uni-hannover.de)
+        - Participation in teaching activties at the [Professorship for positioning and navigation](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/)) of [IfE](https://ife.uni-hannover.de)
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
@@ -39,14 +39,14 @@ experience:
     description: >-2
         I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview). There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in excercises of data processing and improved my programming skills.
   - title: Research Assistant
-    company: Technical University of Munich
+    company: Technical University of Munich, Institut für Astronomische und Physikalische Geodäsie (IAPG)
     company_url: https://www.tum.de/
     company_logo: tum
     location: Munich, Germany
     date_start: 2018-04-01
     date_end: 2019-03-31
     description: >-2
-        Within the project of JUMPING JIVE in collaboration with Wettzell observatory (BKG/TUM).
+        Within the project of JUMPING JIVE in collaboration with [Wettzell observatory (BKG/TUM)](http://www.fs.wettzell.de/).
         Responsibilities included:
         - Development of dynamic ZABBIX maps for global VLBI network
         - Creation of documentation and instructions
