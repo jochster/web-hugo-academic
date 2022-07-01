@@ -41,6 +41,6 @@ item:
     certificate_url: ''
     date_start: '2014-11-01'
     date_end: ''
-    description: 'For outstanding bachelor students of geodesy-related programs (4 persons per year).'    
+    description: 'For outstanding bachelor students of geodesy-related programs (4 BS students per year).'    
   
 ---
