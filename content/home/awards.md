@@ -32,7 +32,7 @@ item:
     certificate_url: ''
     date_start: '2014-12-01'
     date_end: ''
-    description: 'The first prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by [Prof. Caijun Xu](http://cjxu.users.sgg.whu.edu.cn/), Wuhan University'
+    description: 'First prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by [Prof. Caijun Xu](http://cjxu.users.sgg.whu.edu.cn/), Wuhan University.'
     
   - organization: Wuhan University (WHU)
     organization_url: 'https://www.whu.edu.cn'
@@ -41,6 +41,6 @@ item:
     certificate_url: ''
     date_start: '2014-11-01'
     date_end: ''
-    description: 'The first prize for outstanding bachelor students of geodesy-related programs'    
+    description: 'For outstanding bachelor students of geodesy-related programs (4 persons per year).'    
   
 ---
