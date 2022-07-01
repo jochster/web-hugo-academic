@@ -32,11 +32,11 @@ item:
     certificate_url: ''
     date_start: '2014-12-01'
     date_end: ''
-    description: 'The first prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by Prof. Caijun Xu, Wuhan University'
+    description: 'The first prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by [Prof. Caijun Xu](http://cjxu.users.sgg.whu.edu.cn/), Wuhan University'
     
   - organization: Wuhan University (WHU)
     organization_url: 'https://www.whu.edu.cn'
-    title: Wang Zhizhuo Innovation Talent Award, Category Bachelor student
+    title: Wang Zhizhuo Innovative Talent Scholarship (Category Bachelor Student)
     url: ''
     certificate_url: ''
     date_start: '2014-11-01'
