@@ -46,7 +46,7 @@ experience:
     date_start: 2018-04-01
     date_end: 2019-03-31
     description: >-2
-        Within the project of JUMPING JIVE in collaboration with [Wettzell observatory (BKG/TUM)](http://www.fs.wettzell.de/).\
+        Within the project of *JUMPING JIVE* in collaboration with [Wettzell observatory (BKG/TUM)](http://www.fs.wettzell.de/).\
         Responsibilities included:
         - Development of dynamic ZABBIX maps for global VLBI network
         - Creation of documentation and instructions
