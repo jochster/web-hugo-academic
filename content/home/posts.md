@@ -4,7 +4,7 @@ widget_id: post
 headless: true
 weight: 30
 title: Recent Blogs
-subtitle: null
+subtitle: Recent news, events, notes and others
 content:
   filters:
     folders:
