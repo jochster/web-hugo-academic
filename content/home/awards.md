@@ -25,4 +25,21 @@ item:
     date_end: ''
     description: 'for the conference paper [*Deterministic approaches for bounding GNSS uncertainty: A comparative analysis*](https://sujingyao.netlify.app/publication/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/), presented at [*NAVITEC 2022, The 10th ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing*](https://atpi.eventsair.com/navitec-2022)'
 
+  - organization: Wuhan University (WHU)
+    organization_url: 'https://www.whu.edu.cn'
+    title: Wang Zhizhuo Innovation Talent Award, Category Bachelor student
+    url: ''
+    certificate_url: ''
+    date_start: '2014-11'
+    date_end: ''
+    description: 'The first prize for outstanding bachelor students of geodesy-related programs'
+    
+  - organization: Education Commision, Chinese Society for Surveying and Mapping
+    organization_url: 'https://smp.whu.com.cn'
+    title: Zetai Cup National Student Paper Competition in Geodesy
+    url: ''
+    certificate_url: ''
+    date_start: '2014-12'
+    date_end: ''
+    description: 'The first prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by Prof. Caijun Xu, Wuhan University'
 ---
