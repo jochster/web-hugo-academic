@@ -1,5 +1,5 @@
 ---
-title: Caijun Xu
+title: Prof. Caijun Xu
 role: Professor for geodesy and geophysics at Wuhan University
 avatar_filename: avatar
 bio: Professor for geodesy and geophysics at School of Geodesy and Geomatics of
