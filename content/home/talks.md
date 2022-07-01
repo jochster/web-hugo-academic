@@ -4,7 +4,7 @@ widget_id: talk
 headless: true
 weight: 50
 title: Recent & Upcoming Talks
-subtitle: null
+subtitle: Talks at conferences, seminars and workshops
 content:
   page_type: event
   count: 5
