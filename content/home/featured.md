@@ -4,7 +4,7 @@ widget_id: publication
 headless: true
 weight: 40
 title: Featured Publications
-subtitle: ""
+subtitle: Selected conference and journal papers
 content:
   page_type: publication
   count: 0
