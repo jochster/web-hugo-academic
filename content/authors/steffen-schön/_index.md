@@ -1,5 +1,5 @@
 ---
-title: Steffen Schön
+title: Prof. Steffen Schön
 role: Professor for positioning and navigation at IfE, Leibniz University Hannover
 avatar_filename: avatar
 bio: Professor for positioning and navigation at IfE, Leibniz University Hannover.
