@@ -1,9 +1,9 @@
 ---
 title: Dr. Hao Cheng
-role: Postdoc Researcher at Institute of Cartography and Geoinformatics (IKG),
+role: Postdoc researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover
 avatar_filename: avatar
-bio: Postdoc Researcher at Institute of Cartography and Geoinformatics (IKG),
+bio: Postdoc researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover.
 social:
   - display:
