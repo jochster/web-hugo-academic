@@ -12,7 +12,7 @@ experience:
     description: >-2
         PhD research topic: *bounding and propagating uncertainty with interval mathematics*
         
-        in the course of DFG research training group [*Integrity and Collaboration in Dynamic Sensor Networks* (i.c.sens)](https://icsens.uni-hannover.de).
+        within the context of DFG research training group [*Integrity and Collaboration in Dynamic Sensor Networks* (i.c.sens)](https://icsens.uni-hannover.de).
         Responsibilities included:
         - Research and scientific collaborations in the RTG
         - Organization, setup, conduction and documentation of multi-sensory measurement compaigns (Mapathon)
@@ -24,8 +24,12 @@ experience:
     location: Hildesheim, Germany
     date_start: 2019-04-16
     date_end: 2019-10-15
-    description: "Research topic: Statistical modelling and analysis for GNSS
-      positioning accuracy in urban area"
+    description: >-2
+        within the context of research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area
+        Responsibilities included:
+        - Organization, conduction and documentation of GNSS measurement campaigns
+        - Data analysis and stochastical modeling
+        - Presentation and creation of final report
   - title: Visiting student
     company: GFZ Potsdam
     company_url: https://www.gfz-potsdam.de/
@@ -33,7 +37,8 @@ experience:
     location: Potsdam, Germany
     date_start: 2018-07-01
     date_end: 2018-08-31
-    description: ""
+    description: >-2
+        I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview). There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in excercises of data processing and improved my programming skills.
   - title: Research Assistant
     company: Technical University of Munich
     company_url: https://www.tum.de/
