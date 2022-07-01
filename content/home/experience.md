@@ -46,9 +46,8 @@ experience:
     date_start: 2018-04-01
     date_end: 2019-03-31
     description: >-2
-        Within the project of *JUMPING JIVE* in collaboration with [Wettzell observatory (BKG/TUM)](http://www.fs.wettzell.de/).\
         Responsibilities included:
-        - Development of dynamic ZABBIX maps for global VLBI network
+        - Development of dynamic maps for global VLBI network based on ZABBIX
         - Creation of documentation and instructions
   - title: Geomatics Engineer
     company: Shenyang Institute for Geotechnical Investigation and Surveying
