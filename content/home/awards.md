@@ -36,11 +36,11 @@ item:
     
   - organization: Wuhan University (WHU)
     organization_url: 'https://www.whu.edu.cn'
-    title: Wang Zhizhuo Innovative Talent Scholarship (Category Bachelor Student)
+    title: Wang Zhizhuo Innovative Talent Scholarship 
     url: ''
     certificate_url: ''
     date_start: '2014-11-01'
     date_end: ''
-    description: 'For outstanding bachelor students of geodesy-related programs (4 BS students per year).'    
+    description: 'Category bachelor student (4 BS students per year, prize of 6000 RMB).'    
   
 ---
