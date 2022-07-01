@@ -10,13 +10,12 @@ experience:
     date_start: 2020-07-15
     date_end: ""
     description: >-2
-        PhD research topic: *bounding and propagating uncertainty with interval mathematics*
-        
+        PhD research topic: *bounding and propagating uncertainty with interval mathematics*\        
         Within the context of DFG research training group [*Integrity and Collaboration in Dynamic Sensor Networks* (i.c.sens)](https://icsens.uni-hannover.de).
         Responsibilities included:
         - Research and scientific collaborations in the RTG
         - Organization, setup, conduction and documentation of multi-sensory measurement compaigns (Mapathon)
-        - Participation in teaching activties at the PosNav group of the Institute for Geodesy (IfE)
+        - Participation in teaching activties at the [PosNav group](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/)) of the [Institute for Geodesy (IfE)](https://ife.uni-hannover.de)
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
@@ -25,7 +24,7 @@ experience:
     date_start: 2019-04-16
     date_end: 2019-10-15
     description: >-2
-        Within the context of research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area.\\        
+        Within the context of research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area.\     
         Responsibilities included:
         - Organization, conduction and documentation of GNSS measurement campaigns
         - Data analysis and stochastical modeling
@@ -46,7 +45,11 @@ experience:
     location: Munich, Germany
     date_start: 2018-04-01
     date_end: 2019-03-31
-    description: ""
+    description: >-2
+    Within the project of JUMPING JIVE in collaboration with Wettzell observatory (BKG/TUM).\
+    Responsibilities included:
+        - Development of dynamic ZABBIX maps for global VLBI network
+        - Creation of documentation and instructions
   - title: Geomatics Engineer
     company: Shenyang Institute for Geotechnical Investigation and Surveying
     company_url: https://www.024gis.com/
@@ -54,7 +57,11 @@ experience:
     location: Shenyang, China
     date_start: 2015-08-01
     date_end: 2017-08-31
-    description: ""
+    description: >-2
+    Responsibilities included:
+        - Projects in topographic surveying and mapping, and geophysical investigation of pipelines
+        - Development and maintainance of local geoinformation database
+        - Creation of technical reports
 widget_id: experience
 headless: true
 weight: 20
