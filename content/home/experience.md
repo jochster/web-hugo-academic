@@ -54,7 +54,7 @@ widget_id: experience
 headless: true
 weight: 20
 title: Experience
-subtitle: Highlights from employment & experience.
+subtitle: Highlights from my employment & experience.
 design:
   columns: "2"
 ---
