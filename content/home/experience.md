@@ -30,7 +30,7 @@ experience:
         - Data analysis and stochastical modeling
         - Presentation and creation of final report
   - title: Visiting student
-    company: GFZ Potsdam
+    company: Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
     company_url: https://www.gfz-potsdam.de/
     company_logo: gfz
     location: Potsdam, Germany
