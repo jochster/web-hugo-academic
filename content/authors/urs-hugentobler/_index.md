@@ -1,5 +1,5 @@
 ---
-title: Urs Hugentobler
+title: Prof. Urs Hugentobler
 role: Professor for Satellite Geodesy at Technical University of Munich.
 avatar_filename: avatar
 bio: Professor for Satellite Geodesy at Technical University of Munich. Head of
