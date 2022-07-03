@@ -10,8 +10,11 @@ event_url: https://swim.de
 publishDate: 2022-06-24T19:25:19.869Z
 draft: false
 featured: false
+tags:
+  - interval mathematics
+  - uncertainty modeling
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
