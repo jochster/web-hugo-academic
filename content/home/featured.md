@@ -7,7 +7,7 @@ title: Featured Publications
 subtitle: >-
   Selected conference and journal papers.
   
-  See [all my research works >>](/research/).
+  See [all research works >>](/research/)
 content:
   page_type: publication
   count: 0
