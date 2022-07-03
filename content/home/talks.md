@@ -19,5 +19,5 @@ content:
   offset: 0
   order: desc
 design:
-  view: 3
+  view: 5
 ---
