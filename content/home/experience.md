@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Doctoral Researcher
-    company: Leibniz University Hannover, Institut für Erdmessung (IfE)
+    company: Leibniz University Hannover, Institute for Geodesy (IfE)
     company_url: https://www.uni-hannover.de
     company_logo: luh
     location: Hannover, Germany
@@ -39,7 +39,7 @@ experience:
     description: >-2
         I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview). There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in excercises of data processing and improved my programming skills.
   - title: Research Assistant
-    company: Technical University of Munich, Institut für Astronomische und Physikalische Geodäsie (IAPG)
+    company: Technical University of Munich, Institute for Astronomical and Physical Geodesy (IAPG) 
     company_url: https://www.tum.de/
     company_logo: tum
     location: Munich, Germany
