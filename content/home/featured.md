@@ -4,7 +4,10 @@ widget_id: publication
 headless: true
 weight: 40
 title: Featured Publications
-subtitle: Selected conference and journal papers.\ See [all my research works >>](/research/).
+subtitle: >-
+  Selected conference and journal papers.
+  
+  See [all my research works >>](/research/).
 content:
   page_type: publication
   count: 0
