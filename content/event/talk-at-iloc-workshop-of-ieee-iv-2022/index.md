@@ -1,7 +1,7 @@
 ---
 title: Talk at iLoc workshop of IEEE IV 2022
-abstract: "Deterministic approaches for bounding GNSS uncertainty: A comparative
-  analysis"
+abstract: "Invited paper at the iLoc workshop: *Deterministic approaches for
+  bounding GNSS uncertainty: A comparative analysis*"
 location: Aachen, Germany
 date: 2022-06-05T08:30:03.212Z
 date_end: 2022-06-05T21:00:00.000Z
