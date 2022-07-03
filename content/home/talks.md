@@ -4,7 +4,7 @@ widget_id: talk
 headless: true
 weight: 50
 title: Recent & Upcoming Talks
-subtitle: Talks at conferences, seminars and workshops
+subtitle: Talks at conferences, seminars and workshops.\ See [all my research works >>](/research/).
 content:
   page_type: event
   count: 5
