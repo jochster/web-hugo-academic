@@ -1,5 +1,7 @@
 ---
 title: i.c.sens Mapathon 2021
+subtitle: A new multi-sensory, multi-scenario, multi-vehicle measurement
+  campaign in Hannover urban area
 date: 2021-12-27T10:48:14.245Z
 draft: false
 featured: false
