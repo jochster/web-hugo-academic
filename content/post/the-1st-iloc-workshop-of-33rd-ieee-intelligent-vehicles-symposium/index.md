@@ -15,7 +15,7 @@ tags:
   - intelligent vehicles
   - workshop
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: My presentation at iLoc
