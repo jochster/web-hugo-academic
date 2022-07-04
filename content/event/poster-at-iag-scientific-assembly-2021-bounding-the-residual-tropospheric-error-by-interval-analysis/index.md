@@ -28,6 +28,8 @@ links:
     name: Publication
     icon_pack: fas
     icon: book-open
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
   - admin
   - Steffen Schön
