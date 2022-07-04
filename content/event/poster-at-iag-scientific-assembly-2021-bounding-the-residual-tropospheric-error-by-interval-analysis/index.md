@@ -19,15 +19,15 @@ links:
   - url: /uploads/IAG2021_poster_su.pdf
     name: Poster
     icon_pack: fas
-    icon: presentation-screen
-  - url: ''
-    name: Video
-    icon_pack: fas
-    icon: video
-  - url: ''
-    name: Publication
-    icon_pack: fas
-    icon: book-open
+    icon: file-powerpoint
+#  - url: ''
+#    name: Video
+#    icon_pack: fas
+#    icon: video
+#  - url: ''
+#    name: Publication
+#    icon_pack: fas
+#    icon: book-open
 projects:
   - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
