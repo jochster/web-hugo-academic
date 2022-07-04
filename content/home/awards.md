@@ -7,7 +7,7 @@ title: Awards & Honors
 date_format: Jan 2006
 
 item:
-  - organization: The Institute of Navigation (ION)
+  - organization: Institute of Navigation (ION)
     organization_url: 'https://www.ion.org'
     title: Best Presentation Award
     url: ''
@@ -16,7 +16,7 @@ item:
     date_end: ''
     description: 'for the conference paper [*Improved observation interval bounding for GNSS urban navigation*](https://sujingyao.netlify.app/publication/improved-observation-interval-bounding-for-multi-gnss-integrity-monitoring-in-urban-navigation/), presented at [*ION GNSS+ 2021, The 34th International Technical Meeting of the Satellite Division of The Institute of Navigation*](https://www.ion.org/gnss/index.cfm)'
     
-  - organization: The European Space Agency (ESA)
+  - organization: European Space Agency (ESA)
     organization_url: 'https://www.esa.int'
     title: Best Student Presentation Award
     url: ''
@@ -27,7 +27,7 @@ item:
 
   - organization: AZO Anwendungszentrum on behalf of the European Space Agency (ESA)
     organization_url: 'https://www.esa.int'
-    title: The Copernicus Masters 2018
+    title: Copernicus Masters 2018
     url: 'https://copernicus-masters.com/'
     certificate_url: 'https://space-of-innovation.com/top-3-spots-university-challenge-2018/'
     date_start: '2018-10-02'
