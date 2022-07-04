@@ -10,7 +10,7 @@ item:
   - organization: Institute of Navigation (ION)
     organization_url: 'https://www.ion.org'
     title: Best Presentation Award
-    url: ''
+    url: https://www.ion.org/gnss/index.cfm
     certificate_url: ../uploads/certificate_best_presentation_Su.pdf
     date_start: '2021-09-25'
     date_end: ''
@@ -19,7 +19,7 @@ item:
   - organization: European Space Agency (ESA)
     organization_url: 'https://www.esa.int'
     title: Best Student Presentation Award
-    url: ''
+    url: https://atpi.eventsair.com/navitec-2022
     certificate_url: ''
     date_start: '2022-04-07'
     date_end: ''
@@ -37,8 +37,8 @@ item:
   - organization: Education Commision, Chinese Society for Surveying and Mapping
     organization_url: 'https://smp.whu.com.cn'
     title: Zetai Cup National Student Paper Competition in Geodesy
-    url: ''
-    certificate_url: ''
+    url: https://smt.whu.edu.cn/sshd/dxskjlwjs.htm
+    certificate_url: https://smt.whu.edu.cn/info/1016/1064.htm
     date_start: '2014-12-01'
     date_end: ''
     description: 'First prize for the student paper *Finite-element simulation of generation factors analysis of a slow earthquake event*, supervised by [Prof. Caijun Xu](http://cjxu.users.sgg.whu.edu.cn/), Wuhan University.'
@@ -47,7 +47,7 @@ item:
     organization_url: 'https://www.whu.edu.cn'
     title: Wang Zhizhuo Innovative Talent Scholarship 
     url: ''
-    certificate_url: ''
+    certificate_url: https://info.whu.edu.cn/info/3343/5274.htm
     date_start: '2014-11-01'
     date_end: ''
     description: 'Category of bachelor student.'    
