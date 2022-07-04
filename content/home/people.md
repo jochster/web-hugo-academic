@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 
 weight: 75
 title: People I've worked with
-subtitle: My supervisors at universities & internships, previous and current colleagues and collaborators
+subtitle: My supervisors at universities & internships, former and current colleagues and collaborators
 date_format: Jan 2006
 
 content:
