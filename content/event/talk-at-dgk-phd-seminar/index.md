@@ -10,6 +10,25 @@ event_url: https://dgk.badw.de/home.html
 publishDate: 2021-10-04T16:00:34.085Z
 draft: false
 featured: false
+links:
+  - url: https://dgk.badw.de/home.html
+    name: DGK
+    icon_pack: fas
+    icon: book
+  - url: ''
+    name: Slides
+    icon_pack: fas
+    icon: presentation-screen
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
+  - url: ''
+    name: Publication
+    icon_pack: fas
+    icon: book-open
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
   - admin
 tags:
@@ -17,8 +36,6 @@ tags:
   - integrity
   - Interval mathematics
   - uncertainty modeling
-projects:
-  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 image:
   filename: featured.png
   focal_point: Smart
