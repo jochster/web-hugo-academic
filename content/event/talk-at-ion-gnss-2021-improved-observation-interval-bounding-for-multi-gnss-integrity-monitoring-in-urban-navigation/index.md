@@ -16,14 +16,14 @@ links:
     name: Conference
     icon_pack: fas
     icon: book
-  - url: ''
-    name: Slides
-    icon_pack: fas
-    icon: presentation-screen
-  - url: ''
-    name: Video
-    icon_pack: fas
-    icon: video
+#  - url: ''
+#    name: Slides
+#    icon_pack: fas
+#    icon: file-powerpoint
+#  - url: ''
+#    name: Video
+#    icon_pack: fas
+#    icon: video
   - url: https://doi.org/https://doi.org/10.33012/2021.18078
     name: Publication
     icon_pack: fas
