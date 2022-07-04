@@ -16,18 +16,18 @@ links:
     name: Conference
     icon_pack: fas
     icon: book
-  - url: ''
-    name: Slides
-    icon_pack: fas
-    icon: file-powerpoint
+#  - url: ''
+#    name: Slides
+#    icon_pack: fas
+#    icon: file-powerpoint
 #  - url: ''
 #    name: Video
 #    icon_pack: fas
 #    icon: video
-#  - url: ''
-#    name: Publication
-#    icon_pack: fas
-#    icon: book-open
+  - url: https://www.researchgate.net/publication/360423056_Deterministic_Approaches_for_Bounding_GNSS_Uncertainty_A_Comparative_Analysis
+    name: Publication
+    icon_pack: fas
+    icon: book-open
 projects:
   - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 tags:
