@@ -19,7 +19,7 @@ links:
 #  - url: ''
 #    name: Slides
 #    icon_pack: fas
-#    icon: presentation-screen
+#    icon: file-powerpoint
 #  - url: ''
 #    name: Video
 #    icon_pack: fas
