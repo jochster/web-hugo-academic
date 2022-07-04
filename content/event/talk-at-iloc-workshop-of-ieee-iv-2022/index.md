@@ -11,6 +11,25 @@ event_url: https://sites.google.com/view/iloc-2022/
 publishDate: 2022-06-05T17:15:03.224Z
 draft: false
 featured: false
+links:
+  - url: https://www.iv2022.com/
+    name: IV2022
+    icon_pack: fas
+    icon: book
+  - url: ''
+    name: Slides
+    icon_pack: fas
+    icon: presentation-screen
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
+  - url: ''
+    name: Publication
+    icon_pack: fas
+    icon: book-open
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
   - admin
 tags:
