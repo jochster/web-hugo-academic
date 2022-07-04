@@ -11,6 +11,25 @@ event_url: https://www.ion.org/gnss/index.cfm
 publishDate: 2021-09-24T16:00:59.940Z
 draft: false
 featured: false
+links:
+  - url: https://www.ion.org/gnss/index.cfm
+    name: Conference
+    icon_pack: fas
+    icon: book
+  - url: ''
+    name: Slides
+    icon_pack: fas
+    icon: presentation-screen
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
+  - url: https://doi.org/https://doi.org/10.33012/2021.18078
+    name: Publication
+    icon_pack: fas
+    icon: book-open
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
   - admin
   - Steffen Schön
