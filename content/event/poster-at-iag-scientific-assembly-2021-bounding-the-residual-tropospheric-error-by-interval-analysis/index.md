@@ -11,6 +11,23 @@ event_url: https://www.iag2021.com/
 publishDate: 2021-07-01T16:00:28.726Z
 draft: false
 featured: false
+links:
+  - url: https://www.iag2021.com/
+    name: Conference
+    icon_pack: fas
+    icon: book
+  - url: /uploads/IAG2021_poster_su.pdf
+    name: Poster
+    icon_pack: fas
+    icon: presentation-screen
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
+  - url: ''
+    name: Publication
+    icon_pack: fas
+    icon: book-open
 authors:
   - admin
   - Steffen Schön
