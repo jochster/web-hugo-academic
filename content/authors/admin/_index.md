@@ -5,14 +5,11 @@ avatar_filename: portrait_square.jpg
 bio: My research interests include GNSS navigation, integrity monitoring and
   uncertainty modeling with interval mathematics.
 interests:
-  - GNSS
-  - urban navigation
-  - localization for autonomous vehicles
-  - integrity monitoring
-  - uncertainty modeling
+  - GNSS integrity monitoring
+  - high-integrity localization for autonomous vehicles
+  - uncertainty bounding and propagating
   - interval mathematics
   - set theory
-  - state estimation
 social:
   - icon: envelope
     icon_pack: fas
