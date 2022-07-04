@@ -15,18 +15,18 @@ links:
     name: Conference
     icon_pack: fas
     icon: book
-  - url: ''
+  - url: https://www.researchgate.net/publication/354863709_On_the_Geometrical_Constraints_for_Interval-based_GNSS_Positioning
     name: Slides
     icon_pack: fas
-    icon: presentation-screen
-  - url: ''
-    name: Video
-    icon_pack: fas
-    icon: video
-  - url: ''
-    name: Publication
-    icon_pack: fas
-    icon: book-open
+    icon: file-powerpoint
+#  - url: ''
+#    name: Video
+#    icon_pack: fas
+#    icon: video
+#  - url: ''
+#    name: Publication
+#    icon_pack: fas
+#    icon: book-open
 projects:
   - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
