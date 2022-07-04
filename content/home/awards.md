@@ -32,7 +32,7 @@ item:
     certificate_url: 'https://space-of-innovation.com/top-3-spots-university-challenge-2018/'
     date_start: '2018-10-02'
     date_end: ''
-    description: 'Top 3 finalist of University Challenge for the project *Marine Navigation Safety Monitor (MaNSaM)*, supervised by [Dr. Thomas Gruber](https://www.asg.ed.tum.de/iapg/mitarbeiter/gruber/), Technical University of Munich.'
+    description: 'Top 3 finalist of University Challenge, for the project *Marine Navigation Safety Monitor (MaNSaM)*, supervised by [Dr. Thomas Gruber](https://www.asg.ed.tum.de/iapg/mitarbeiter/gruber/), Technical University of Munich.'
     
   - organization: Education Commision, Chinese Society for Surveying and Mapping
     organization_url: 'https://smp.whu.com.cn'
