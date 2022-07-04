@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Doctoral Researcher
-    company: Leibniz University Hannover, Institute for Geodesy (IfE)
+    company: Leibniz University Hannover, Institute of Geodesy (IfE)
     company_url: https://www.uni-hannover.de
     company_logo: luh
     location: Hannover, Germany
