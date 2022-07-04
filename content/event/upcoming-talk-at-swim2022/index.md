@@ -10,6 +10,25 @@ event_url: https://swim.de
 publishDate: 2022-06-24T19:25:19.869Z
 draft: false
 featured: false
+links:
+  - url: https://swim.de
+    name: Conference
+    icon_pack: fas
+    icon: book
+  - url: ''
+    name: Slides
+    icon_pack: fas
+    icon: presentation-screen
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
+  - url: ''
+    name: Publication
+    icon_pack: fas
+    icon: book-open
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 tags:
   - interval mathematics
   - uncertainty modeling
