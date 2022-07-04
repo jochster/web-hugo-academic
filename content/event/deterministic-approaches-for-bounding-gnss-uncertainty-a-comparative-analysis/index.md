@@ -6,6 +6,11 @@ location: Virtual, Noordwijk, The Netherlands
 date: 2022-04-06T12:20:35.227Z
 date_end: 2022-04-06T12:32:00.000Z
 all_day: false
+event: NAVITEC 2022
+event_url: https://atpi.eventsair.com/navitec-2022/
+publishDate: 2022-04-07T09:35:35.238Z
+draft: false
+featured: false
 links:
   - url: https://atpi.eventsair.com/navitec-2022
     name: Conference
@@ -23,11 +28,8 @@ links:
     name: Publication
     icon_pack: fas
     icon: book-open
-event: NAVITEC 2022
-event_url: https://atpi.eventsair.com/navitec-2022/
-publishDate: 2022-04-07T09:35:35.238Z
-draft: false
-featured: false
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 tags:
   - GNSS
   - integrity
