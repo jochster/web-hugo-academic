@@ -10,6 +10,25 @@ event_url: https://www.frontiers-of-geodetic-science.de/
 publishDate: 2021-09-24T16:00:05.529Z
 draft: false
 featured: false
+links:
+  - url: https://www.frontiers-of-geodetic-science.de/
+    name: Conference
+    icon_pack: fas
+    icon: book
+  - url: ''
+    name: Slides
+    icon_pack: fas
+    icon: presentation-screen
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
+  - url: ''
+    name: Publication
+    icon_pack: fas
+    icon: book-open
+projects:
+  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
 authors:
   - admin
   - Steffen Schön
