@@ -1,7 +1,7 @@
 ---
 title: Improved Observation Interval Bounding for Multi-GNSS Integrity
   Monitoring in Urban Navigation
-abstract: Talk at ION GNSS+ 2021. Awarded best presentation of the track.
+abstract: Talk at ION GNSS+ 2021, awarded best presentation of the track.
 location: Virtual, St. Louis, MO, US
 date: 2021-09-24T13:00:59.901Z
 date_end: 2021-09-24T14:00:00.000Z
