@@ -20,7 +20,7 @@ item:
     organization_url: 'https://www.esa.int'
     title: Best Student Presentation Award
     url: https://atpi.eventsair.com/navitec-2022
-    certificate_url: ''
+    certificate_url: /uploads/Navitec_certificate.pdf
     date_start: '2022-04-07'
     date_end: ''
     description: 'for the conference paper [*Deterministic approaches for bounding GNSS uncertainty: A comparative analysis*](https://sujingyao.netlify.app/publication/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/), presented at [*NAVITEC 2022, The 10th ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing*](https://atpi.eventsair.com/navitec-2022)'
