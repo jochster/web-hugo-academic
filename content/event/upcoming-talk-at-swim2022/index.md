@@ -10,7 +10,7 @@ links:
     name: Conference
     icon_pack: fas
     icon: book
-event: SWIM
+event: 13th Summer Workshop on Interval Methods
 event_url: https://swim.de
 publishDate: 2022-06-24T19:25:19.869Z
 draft: false
