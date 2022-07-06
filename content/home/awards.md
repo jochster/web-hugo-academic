@@ -35,7 +35,7 @@ item:
     description: 'Top 3 finalist of University Challenge, for the project *Marine Navigation Safety Monitor (MaNSaM)*, supervised by [Dr. Thomas Gruber](https://www.asg.ed.tum.de/iapg/mitarbeiter/gruber/), Technical University of Munich.'
     
   - organization: Education Commision, Chinese Society for Surveying and Mapping
-    organization_url: 'https://smp.whu.com.cn'
+    organization_url: 'https://smt.whu.edu.cn/index.htm'
     title: Zetai Cup National Student Paper Competition in Geodesy
     url: https://smt.whu.edu.cn/sshd/dxskjlwjs.htm
     certificate_url: https://smt.whu.edu.cn/info/1016/1064.htm
