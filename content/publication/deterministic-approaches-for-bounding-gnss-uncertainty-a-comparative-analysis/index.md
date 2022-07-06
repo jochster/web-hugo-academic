@@ -48,4 +48,4 @@ links:
     icon_pack: ai
     icon: researchgate
 ---
-Have a look at my presentation at the conference [](/talk/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/)\[{{< icon name="video" pack="fab" >}}](/talk/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/)
+Have a look at my presentation at the conference [](/talk/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/)[{{< icon name="video" pack="fas" >}}](/talk/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/)
