@@ -2,7 +2,7 @@
 title: Yunshuang Yuan
 role: Doctoral researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hanover
-avatar_filename: featured.jpg
+avatar_filename: avatar.jpg
 bio: Doctoral researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hanover
 social:
