@@ -16,6 +16,10 @@ links:
     name: Publication
     icon_pack: fas
     icon: book-open
+  - url: ''
+    name: Video
+    icon_pack: fas
+    icon: video
 event: NAVITEC 2022
 event_url: https://atpi.eventsair.com/navitec-2022/
 publishDate: 2022-04-07T09:35:35.238Z
