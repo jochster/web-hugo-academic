@@ -1,7 +1,7 @@
 ---
 title: Rozhin Moftizadeh
 role: Doctoral researcher at Geodetic Institute (GIH), Leibniz University Hannover
-avatar_filename: featured.jpg
+avatar_filename: avatar.jpg
 bio: Doctoral researcher at Geodetic Institute (GIH), Leibniz University Hannover
 social:
   - display:
