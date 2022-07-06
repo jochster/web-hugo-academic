@@ -35,9 +35,11 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  alt_text: "{{< youtube w7Ft2ymGmfc >}}"
+  alt_text: ""
 ---
 {{< youtube Wab1-YluSPU >}}
+
+
 
 Uncertainty modeling and bounding are of vital importance for high-integrity GNSS applications. Classical approaches are mostly developed in a stochastic manner with probabilistic assumptions. However, the exact error distribution is often unknown, and remaining systematics may persist, so that a purely stochastic modeling of all error sources will not be adequate, and alternative uncertainty bounding and propagation should be studied. 
 
