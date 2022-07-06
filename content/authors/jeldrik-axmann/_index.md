@@ -2,7 +2,7 @@
 title: Jeldrik Axmann
 role: Doctoral researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover
-avatar_filename: featured.jpg
+avatar_filename: avatar.jpg
 bio: Doctoral researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover
 social:
