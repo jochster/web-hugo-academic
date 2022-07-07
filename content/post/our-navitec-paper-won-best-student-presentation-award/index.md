@@ -3,6 +3,8 @@ title: Our NAVITEC paper won Best Student Presentation Award
 subtitle: "for the paper entitled *Deterministic approaches for bounding GNSS
   uncertainty: A comparative analysis*"
 date: 2022-04-07T17:00:28.846Z
+summary: "for the paper entitled *Deterministic approaches for bounding GNSS
+  uncertainty: A comparative analysis*"
 draft: false
 featured: false
 authors:
