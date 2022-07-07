@@ -12,7 +12,10 @@ tags:
   - set theory
   - interval mathematics
   - error bounding
-external_link: https://www.icsens.uni-hannover.de/en/research/phd-projects/projects-of-the-2nd-cohort/bounding-and-propagating/
+external_link: ""
+links:
+  - url: https://www.icsens.uni-hannover.de/en/research/phd-projects/projects-of-the-2nd-cohort/bounding-and-propagating/
+    name: Link
 image:
   filename: featured
   focal_point: Smart
