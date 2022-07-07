@@ -25,6 +25,20 @@ My Ph.D. project at DFG-funded RTG i.c.sens (the 2nd cohort), [Leibniz Universit
 
 The aim of this project is to investigate the uncertainty for GNSS with interval mathematics and set theory, based on which, an alternative integrity approach will be developed for future autonomous navigation applications.
 
+A list of related publications:
+
+:page_with_curl: Jingyao Su, Steffen Schön (2022). [Advances in deterministic approaches for bounding uncertainty and integrity monitoring of autonomous navigation](https://www.jingyao-su.com/publication/advances-in-deterministic-approaches-for-bounding-uncertainty-and-integrity-monitoring-of-autonomous-navigation/). accepted by *ION GNSS+ 2022*.
+
+:page_with_curl: Steffen Schön, Kai-Niklas Baasch, Lucy Icking, Ali KarimiDoona, Qianwen Lin, Fabian Ruwisch, Anat Schaper, Jingyao Su (2022). [Towards integrity for GNSS-based urban navigation - challenges and lessons learned](https://www.jingyao-su.com/publication/towards-integrity-for-gnss-based-urban-navigation-challenges-and-lessons-learned/). In *IEEE IV 2022*.
+
+:page_with_curl: Jingyao Su, Steffen Schön (2022). [Deterministic approaches for bounding GNSS uncertainty: A comparative analysis](https://www.jingyao-su.com/publication/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/). In *NAVITEC 2022*.
+
+:page_with_curl: Jingyao Su, Steffen Schön (2021). [Bounding the residual tropospheric error by interval analysis](https://www.jingyao-su.com/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/). submitted to *International Association of Geodesy Symposia*.
+
+:page_with_curl: Jingyao Su, Steffen Schön (2021). [Improved observation interval bounding for multi-GNSS integrity monitoring in urban navigation](https://www.jingyao-su.com/publication/improved-observation-interval-bounding-for-multi-gnss-integrity-monitoring-in-urban-navigation/). In *ION GNSS+ 2021*.
+
+
+
 Background as defined in i.c.sens:
 
 > Intervals (Jaulin et al 2001) can be seen as a natural way to bound observation uncertainy in navigation systems such as GPS, IMU or optical sensors like LIDAR, since they are in principle free of any assumption about probability distributions and can thus describe adequately remaining systematic effects (Schön 2016, Schön and Kutterer 2006). In an ongoing project (Dbouk and Schön 2019) we used intersections of observation intervals to compute feasible positioning domains and to exclude large outliers, cf. Fig. 1. However, all results are based on - meaningful - assumptions about the respective intervals.
