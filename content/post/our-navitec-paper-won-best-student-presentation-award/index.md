@@ -28,6 +28,8 @@ Our paper entitled *Deterministic approaches for bounding GNSS uncertainty: A co
 
 :movie_camera: See details of [the talk >>](/talk/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/)
 
+![](featured_navitecpre.png "Our presentation")
+
 \# Background
 
 > **[NAVITEC 2022](https://atpi.eventsair.com/navitec-2022/)** is an open forum for space and terrestrial satellite navigation technology designers, developers, integrators, users, universities, and agency representatives. It was held from 4-8 April, 2022 in Noordwijk, Netherland. 
