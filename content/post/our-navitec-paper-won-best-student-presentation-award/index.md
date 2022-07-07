@@ -38,7 +38,7 @@ Our paper entitled *Deterministic approaches for bounding GNSS uncertainty: A co
 >
 > The event focuses on navigation technologies and techniques leading to significant enhancement of the user performance, enablers for future applications, and solutions for challenging environments. Being the main trade show for navigation industry professionals, it brings together leading developers and manufacturers of navigation equipment and technologies, services and software including mapping applications, shows relevant global trends, and determines the development of the global market of satellite navigation.
 >
-> Some of the topics to be covered will include:
+> The topics of interest include:
 >
 > * Space navigation systems and technologies: use of GNSS in Earth orbits and beyond Earth orbits (e.g. GNSS to the Moon).
 > * Dedicated systems for exo-navigation (e.g. new systems for PNT on the Moon, on Mars, or in the solar system).
