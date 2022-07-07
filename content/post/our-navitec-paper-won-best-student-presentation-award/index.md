@@ -30,7 +30,7 @@ Our paper entitled *Deterministic approaches for bounding GNSS uncertainty: A co
 
 :movie_camera: See details of [the talk >>](/talk/deterministic-approaches-for-bounding-gnss-uncertainty-a-comparative-analysis/)
 
-![](https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2022/03/07/114/navitec.png?itok=yzS4uhCY "Our presentation")
+![](https://www.gmv.com/sites/default/files/styles/image_1000/public/content/image/2022/03/07/114/navitec.png?itok=yzS4uhCY)
 
 \# Background
 
