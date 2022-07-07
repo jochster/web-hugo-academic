@@ -3,6 +3,16 @@ title: Bounding and Propagating Uncertainty with Interval Mathematics
 date: 2020-07-15T08:00:00.000Z
 draft: false
 featured: false
+authors:
+  - admin
+tags:
+  - GNSS
+  - uncertainty modeling
+  - integrity
+  - set theory
+  - interval mathematics
+  - error bounding
+external_link: https://www.icsens.uni-hannover.de/en/research/phd-projects/projects-of-the-2nd-cohort/bounding-and-propagating/
 image:
   filename: featured
   focal_point: Smart
