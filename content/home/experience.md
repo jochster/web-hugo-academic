@@ -19,7 +19,7 @@ experience:
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
-    company_logo: Bosch2
+    company_logo: Bosch
     location: Hildesheim, Germany
     date_start: 2019-04-16
     date_end: 2019-10-15
