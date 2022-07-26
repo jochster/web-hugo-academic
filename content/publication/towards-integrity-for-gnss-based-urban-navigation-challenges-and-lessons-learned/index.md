@@ -17,6 +17,7 @@ publication_short: In *IEEE IV 2022*
 abstract: ""
 draft: false
 featured: true
+url_pdf: https://doi.org/10.1109/IV51971.2022.9827402
 links: 
 - name: Conference
   url: https://www.iv2022.com
