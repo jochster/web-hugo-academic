@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Steffen Schön
   - Kai-Niklas Baasch
-  - Lucy Icking
+  - lucy-icking
   - Ali KarimiDoona
   - Qianwen Lin
   - Fabian Ruwisch
