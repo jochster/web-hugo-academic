@@ -25,6 +25,8 @@ tags:
   - GNSS
   - integrity
   - uncertainty modeling
+projects:
+  - icsens
 image:
   filename: featured.png
   focal_point: Smart
