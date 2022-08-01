@@ -22,7 +22,7 @@ featured: false
 authors:
   - admin
   - Yuehan Jiang
-  - Steffen Schön
+  - schoen
   - Bernado Wagner
 tags:
   - interval mathematics
