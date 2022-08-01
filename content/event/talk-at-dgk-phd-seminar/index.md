@@ -23,7 +23,7 @@ tags:
   - Interval mathematics
   - uncertainty modeling
 projects:
-  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
+  - icsens
 image:
   filename: featured.png
   focal_point: Smart
