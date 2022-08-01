@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Prof. Steffen Schön
+  - steffen-schön
 publication: accepted by *ION GNSS+ 2022*
 draft: false
 featured: true
