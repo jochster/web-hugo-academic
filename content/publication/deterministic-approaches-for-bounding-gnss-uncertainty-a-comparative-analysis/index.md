@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Steffen Schön
+  - schoen
 publication: In *10th ESA Workshop on Satellite Navigation Technologies and
   European Workshop on GNSS Signals and Signal Processing (NAVITEC)*
 publication_short: In *NAVITEC 2022*
