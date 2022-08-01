@@ -34,7 +34,7 @@ tags:
   - polytope
   - interval mathematics
 projects:
-  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
+  - icsens
 image:
   filename: featured.png
   focal_point: Smart
