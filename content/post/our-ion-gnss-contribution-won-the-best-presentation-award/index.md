@@ -16,7 +16,7 @@ tags:
 projects:
   - icsens
 image:
-  filename: certificate_ion_best_pre.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Certificate by ION
