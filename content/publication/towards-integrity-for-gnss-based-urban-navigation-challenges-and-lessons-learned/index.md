@@ -16,21 +16,9 @@ publication: In *Proceedings of the 33rd IEEE Integelligent Vehicles Symposium*
 publication_short: In *IEEE IV 2022*
 abstract: ""
 draft: false
-featured: true
 url_pdf: https://doi.org/10.1109/IV51971.2022.9827402
-links: 
-- name: Conference
-  url: https://www.iv2022.com
-  icon_pack: fas
-  icon: book
-- name: PDF request
-  icon_pack: fas
-  icon: envelope
-  url: mailto:suj@ife.uni-hannover.de
-- name: ResearchGate
-  url: https://www.researchgate.net/publication/360938638_Towards_Integrity_for_GNSS-based_urban_navigation_-_challenges_and_lessons_learned
-  icon_pack: ai
-  icon: researchgate
+doi: 10.1109/IV51971.2022.9827402
+featured: true
 tags:
   - urban navigation
   - GNSS
@@ -38,6 +26,8 @@ tags:
   - autonomous driving
   - Multipath effect
   - interval mathematics
+projects:
+  - icsens
 image:
   filename: featured.png
   focal_point: Smart
@@ -54,6 +44,19 @@ summary: For safety critical applications like autonomous driving, high trust in
   signal propagation mechanisms and the potential error sources induced by the
   complex measurement environment should be sufficiently understood.
 date: 2022-06-05T18:00:35.596Z
+links:
+  - name: Conference
+    url: https://www.iv2022.com
+    icon_pack: fas
+    icon: book
+  - name: PDF request
+    icon_pack: fas
+    icon: envelope
+    url: mailto:suj@ife.uni-hannover.de
+  - name: ResearchGate
+    url: https://www.researchgate.net/publication/360938638_Towards_Integrity_for_GNSS-based_urban_navigation_-_challenges_and_lessons_learned
+    icon_pack: ai
+    icon: researchgate
 ---
 For safety critical applications like autonomous driving, high trust in the reported navigation solution is mandatory. This trust can be expressed by the navigation performance parameters, especially integrity. Multipath errors are the most challenging error source in GNSS since only partial correction is possible. In order to ensure high integrity of GNSS-based urban navigation, signal propagation mechanisms and the potential error sources induced by the complex measurement environment should be sufficiently understood. 
 
