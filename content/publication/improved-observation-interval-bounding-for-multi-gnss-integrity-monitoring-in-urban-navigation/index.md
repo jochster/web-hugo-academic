@@ -21,19 +21,6 @@ abstract: "Integrity monitoring is of great importance for Global Navigation
   proposed in this contribution. "
 draft: false
 featured: true
-links: 
-- name: Conference
-  url: https://www.ion.org/gnss/index.cfm
-  icon_pack: fas
-  icon: book
-- name: PDF request
-  icon_pack: fas
-  icon: envelope
-  url: mailto:suj@ife.uni-hannover.de
-- name: ResearchGate
-  url: https://www.researchgate.net/publication/354863404_Improved_Observation_Interval_Bounding_for_Multi-GNSS_Integrity_Monitoring_in_Urban_Navigation
-  icon_pack: ai
-  icon: researchgate
 tags:
   - GNSS
   - integrity
@@ -46,5 +33,20 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-09-20T19:04:17.683Z
+links:
+  - name: Conference
+    url: https://www.ion.org/gnss/index.cfm
+    icon_pack: fas
+    icon: book
+  - name: PDF request
+    icon_pack: fas
+    icon: envelope
+    url: mailto:suj@ife.uni-hannover.de
+  - name: ResearchGate
+    url: https://www.researchgate.net/publication/354863404_Improved_Observation_Interval_Bounding_for_Multi-GNSS_Integrity_Monitoring_in_Urban_Navigation
+    icon_pack: ai
+    icon: researchgate
+projects:
+  - icsens
 ---
 We validated for a first time how the sensitivity analysis is feasible to determine uncertainty intervals for residual ionospheric errors and residual tropospheric errors, taking advantage of long-term statistics against reference data. Transforming the navigation problem into a convex optimization problem, the interval bounds are propagated from the range domain to the position domain. We implemented this strategy for multi-GNSS positioning in an experiment with static data from International GNSS Service (IGS) station Potsdam (POTS) and an experiment with kinematic data from a measurement campaign conducted in the urban area of Hannover, Germany, on August 26, 2020.
