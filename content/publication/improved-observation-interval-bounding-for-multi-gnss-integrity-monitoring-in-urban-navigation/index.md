@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Steffen Schön
+  - schoen
 doi: https://doi.org/10.33012/2021.18078
 publication: In *Proceedings of the 34th International Technical Meeting of the
   Satellite Division of The Institute of Navigation (ION GNSS+ 2021)*
