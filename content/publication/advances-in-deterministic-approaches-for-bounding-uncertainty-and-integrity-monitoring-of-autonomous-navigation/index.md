@@ -9,19 +9,6 @@ authors:
 publication: accepted by *ION GNSS+ 2022*
 draft: false
 featured: true
-links: 
-- name: Conference
-  url: https://www.ion.org/gnss/index.cfm
-  icon_pack: fas
-  icon: book
-- name: PDF request
-  icon_pack: fas
-  icon: envelope
-  url: mailto:suj@ife.uni-hannover.de
-- name: ResearchGate
-  url: ''
-  icon_pack: ai
-  icon: researchgate
 tags:
   - urban navigation
   - GNSS
@@ -30,6 +17,8 @@ tags:
   - uncertainty modeling
   - Multipath effect
   - Fault Detection and Exclusion
+projects:
+  - icsens
 image:
   filename: featured
   focal_point: Smart
@@ -40,4 +29,17 @@ summary: "In this contribution, we aim to demonstrate the feasibility of
   urban environment, fault detection and exclusion, and further consideration of
   applying weighting models. "
 date: 2022-06-26T16:52:29.231Z
+links:
+  - name: Conference
+    url: https://www.ion.org/gnss/index.cfm
+    icon_pack: fas
+    icon: book
+  - name: PDF request
+    icon_pack: fas
+    icon: envelope
+    url: mailto:suj@ife.uni-hannover.de
+  - name: ResearchGate
+    url: ""
+    icon_pack: ai
+    icon: researchgate
 ---
