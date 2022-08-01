@@ -17,7 +17,7 @@ tags:
   - awards
   - conference
 projects:
-  - integrity-and-collaboration-in-dynamic-sensor-networks-i-c-sens
+  - icsens
 image:
   filename: featured.jpg
   focal_point: Smart
