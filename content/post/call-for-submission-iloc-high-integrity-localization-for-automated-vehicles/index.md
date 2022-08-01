@@ -1,19 +1,21 @@
 ---
 title: "Call for submission: iLoc--High-integrity Localization for Automated Vehicles"
 date: 2022-02-14T10:49:37.447Z
-lastmod: 2022-02-14T10:49:37.447Z
 summary: "The first workshop on ***iLoc: High-integrity Localization for
   Automated Vehicles*** at the 33rd IEEE Intelligent Vehicles Symposiums (IV)."
 draft: false
 featured: false
 authors:
   - the iLoc organization committee
+lastmod: 2022-02-14T10:49:37.447Z
 tags:
   - i.c.sens
   - sensor fusion
   - integrity
   - localization
   - workshop
+projects:
+  - icsens
 image:
   filename: featured.png
   focal_point: Smart
