@@ -13,6 +13,8 @@ tags:
   - integrity
   - intelligent vehicles
   - workshop
+projects:
+  - icsens
 image:
   filename: featured.jpg
   focal_point: Smart
