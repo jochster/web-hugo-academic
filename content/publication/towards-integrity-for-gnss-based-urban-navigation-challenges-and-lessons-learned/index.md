@@ -4,7 +4,7 @@ title: Towards integrity for GNSS-based urban navigation - challenges and
 publication_types:
   - "1"
 authors:
-  - Steffen Schön
+  - schoen
   - Kai-Niklas Baasch
   - lucy-icking
   - Ali KarimiDoona
