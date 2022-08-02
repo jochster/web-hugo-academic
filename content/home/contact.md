@@ -28,8 +28,8 @@ content:
     Building 3109, Room 402B
 features:
   map:
-    provider: google
-    api_key: ''
+    provider: map = 3
+    api_key: 'pk.eyJ1Ijoic3VqaW5neWFvIiwiYSI6ImNsNmM3YW9oMjAzanYzYm8xMWZndG55YXoifQ.QIz-tQVsiHB_O_xUlS2-_Q'
     zoom: 15
 design:
   columns: "2"
