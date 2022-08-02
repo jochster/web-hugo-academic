@@ -28,7 +28,7 @@ content:
     Building 3109, Room 402B
 features:
   map:
-    provider: map = 3
+    provider: Mapbox
     api_key: 'pk.eyJ1Ijoic3VqaW5neWFvIiwiYSI6ImNsNmM3YW9oMjAzanYzYm8xMWZndG55YXoifQ.QIz-tQVsiHB_O_xUlS2-_Q'
     zoom: 15
 design:
