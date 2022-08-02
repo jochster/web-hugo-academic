@@ -37,8 +37,6 @@ image:
   preview_only: false
   caption: © Daniel Vogl / LUH
 ---
-![](swim22_how_to_determine_interval_su.png)
-
 # Introduction
 
 **Intervals** can be seen as a natural way to bound observation uncertainty in navigation systems such as Global Navigation Satellite System (GNSS), Inertial Measurement Units (IMU) or optical sensors like LiDAR, since they are in principle free of any assumption about probability distributions and can thus describe adequately remaining systematic effects \[1]. Transferring the uncertainty from the observation domain to the state domain, such as the position and pose, the uncertainty is represented as a set-value, e.g., polytope \[2,3], zonotope \[1,3], and interval box \[4,8]. This is applicable in navigation integrity monitoring as an alternative approach for error bounding \[5], in contrast to the conventional stochastic handling.
