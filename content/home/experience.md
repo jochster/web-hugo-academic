@@ -10,7 +10,7 @@ experience:
     date_start: 2020-07-15
     date_end: ""
     description: >-2
-        PhD research topic: [*bounding and propagating uncertainty with interval mathematics*](\project\bounding-and-propagating-with-interval-mathematics)\
+        PhD research topic: [*bounding and propagating uncertainty with interval mathematics*](/project/bounding-and-propagating-with-interval-mathematics)\
         Within the context of DFG research training group [*Integrity and Collaboration in Dynamic Sensor Networks* (i.c.sens)](https://icsens.uni-hannover.de).
         Responsibilities included:
         - Research and scientific collaborations in the RTG
