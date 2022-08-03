@@ -30,7 +30,7 @@ social:
     link: https://scholar.google.com/citations?user=A4OTJJ0AAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/sujingyao
+    link: https://www.linkedin.com/in/sujingyao
 organizations:
   - name: Leibniz Universität Hannover, Institut für Erdmessung
     url: https://ife.uni-hannover.de/
