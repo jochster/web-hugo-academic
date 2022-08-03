@@ -2,7 +2,9 @@
 title: Rozhin Moftizadeh
 role: Doctoral researcher at Geodetic Institute (GIH), Leibniz University Hannover
 avatar_filename: avatar.jpg
-bio: Doctoral researcher at Geodetic Institute (GIH), Leibniz University Hannover
+bio: Research interests include Geodetic Data Analysis, Kalman Filter with
+  Equality State Constraints, Particle Filter with Equality State Constraints,
+  Information-Based Kinematic Multi-Sensor-Systems Georeferencing
 social:
   - display:
       header: false
