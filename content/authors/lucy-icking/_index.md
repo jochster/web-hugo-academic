@@ -2,7 +2,8 @@
 title: Lucy Icking
 role: Doctoral researcher at IfE, Leibniz University Hannover
 avatar_filename: avatar.jpg
-bio: Doctoral researcher at IfE, Leibniz University Hannover
+bio: Research interests include collaborative navigation, and navigation in
+  urban environments
 social:
   - display:
       header: false
