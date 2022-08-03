@@ -3,8 +3,9 @@ title: Dr. Bingbing Duan
 role: Researcher and lecturer at the Institute for Astronomical and Physical
   Geodesy, TUM
 avatar_filename: avatar
-bio: Researcher and lecturer at the Institute for Astronomical and Physical
-  Geodesy, TUM.
+bio: His main research interests are the GNSS orbit modelling, precise GNSS
+  orbit determination, GNSS signal biases, LEO satellite orbit determination and
+  the combination of space techniques (GNSS, DORIS, SLR).
 social:
   - display:
       header: false
