@@ -6,7 +6,6 @@ summary: "The first workshop on ***iLoc: High-integrity Localization for
 draft: false
 featured: false
 authors:
-  - "the iLoc organization committee:"
   - schoen
   - Prof. Claus Brenner
   - dr-hao-cheng
