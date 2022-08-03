@@ -3,8 +3,8 @@ title: Dr. Hao Cheng
 role: Postdoc researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover
 avatar_filename: avatar
-bio: His research interests include deep learning of road user behavior modeling
-  in intelligent transport systems and autonomous driving and safety analysis
+bio: Research interests include deep learning of road user behavior modeling in
+  intelligent transport systems and autonomous driving and safety analysis
   between vehicles and vulnerable road users.
 social:
   - display:
