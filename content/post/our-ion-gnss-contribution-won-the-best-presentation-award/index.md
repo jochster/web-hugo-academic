@@ -3,6 +3,10 @@ title: Our ION GNSS+ contribution won the Best Presentation Award
 subtitle: for the presentation entitled *Improved observation interval bounding
   for multi-GNSS integrity monitoring in urban navigation*
 date: 2021-10-01T14:50:27.322Z
+summary: Our paper entitled *Improved observation interval bounding for
+  multi-GNSS integrity monitoring in urban navigation* was awarded the **best
+  presentation** at the ION GNSS+ 2021, The 34th International Technical Meeting
+  of the Satellite Division of The Institute of Navigation.
 draft: false
 featured: false
 authors:
