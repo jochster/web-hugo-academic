@@ -2,13 +2,13 @@
 title: Dr. Yu Feng
 role: Postdoc researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover
-avatar_filename: https://www.ikg.uni-hannover.de/typo3temp/_processed_/f/a/csm_f74e64e326bbe5901834edfab16376e4b08872dc-fp-3-2-0-0_8bae55e624.jpg
+avatar_filename: avatar.jpg
 bio: Research interests include LiDAR data processing, geospatial data analysis,
   and deep learning
 social:
   - display:
       header: false
-    link: https://www.ikg.uni-hannover.de/en/institute/search-for-persons/cheng/
+    link: https://www.ikg.uni-hannover.de/en/institute/search-for-persons/feng/
     icon_pack: fas
     icon: house
 superuser: false
