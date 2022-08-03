@@ -3,8 +3,8 @@ title: Qianqian Zou
 role: Doctoral researcher at Institute of Cartography and Geoinformatics (IKG),
   Leibniz University Hannover
 avatar_filename: avatar
-bio: Doctoral researcher at Institute of Cartography and Geoinformatics (IKG),
-  Leibniz University Hannover.
+bio: Research interests include uncertainty estimation of 3D mapping and
+  incremental mapping using LiDAR point clouds.
 social:
   - display:
       header: false
