@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Steffen Schön
+  - schoen
 publication: submitted to *International Association of Geodesy Symposia*
 abstract: >-
   GNSS integrity monitoring requires proper bounding to characterize all ranging
