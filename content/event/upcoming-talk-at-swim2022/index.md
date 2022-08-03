@@ -23,7 +23,7 @@ authors:
   - admin
   - Yuehan Jiang
   - schoen
-  - Bernado Wagner
+  - Prof. Bernado Wagner
 tags:
   - interval mathematics
   - uncertainty modeling
