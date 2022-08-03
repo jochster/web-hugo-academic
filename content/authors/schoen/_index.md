@@ -2,7 +2,9 @@
 title: Prof. Steffen Schön
 role: Professor for positioning and navigation at IfE, Leibniz University Hannover
 avatar_filename: avatar
-bio: Professor for positioning and navigation at IfE, Leibniz University Hannover.
+bio: Spokesman of the DFG Research Training Group GRK2159 (i.c.sens), dean of
+  studies Geodesy and Geoinformatics, and Liaison professor of the
+  Studienstiftung des deutschen Volkes
 social:
   - display:
       header: false
