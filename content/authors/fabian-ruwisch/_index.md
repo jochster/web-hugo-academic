@@ -2,7 +2,8 @@
 title: Fabian Ruwisch
 role: Doctoral researcher at IfE, Leibniz Univeristy Hannover
 avatar_filename: avatar.jpg
-bio: Doctoral researcher at IfE, Leibniz Univeristy Hannover.
+bio: Research interests include GNSS multipath modelling, positioning and
+  navigation in urban environments
 social:
   - display:
       header: false
