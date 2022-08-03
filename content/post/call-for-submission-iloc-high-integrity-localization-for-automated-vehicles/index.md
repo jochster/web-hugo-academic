@@ -9,7 +9,7 @@ authors:
   - schoen
   - Prof. Claus Brenner
   - dr-hao-cheng
-  - Dr.-Yu-Feng
+  - Dr. Yu Feng
   - Yuehan-Jiang
   - Jeldrik-Axmann
   - admin
