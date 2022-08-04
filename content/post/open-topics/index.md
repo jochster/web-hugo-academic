@@ -16,9 +16,10 @@ image:
 ---
 As a research staff at[ Institut für Erdmessung (IfE)](https://ife.uni-hannover.de), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
-Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.
+Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas.  {{< hl >}}All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.{{< /hl >}}.
 
-This is a {{< hl >}}highlighted quote{{< /hl >}}.
+Red colored text
+{style="color: red"}
 
 Please note that I will only supervise **English-written** theses.
 
