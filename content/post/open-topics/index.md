@@ -16,13 +16,23 @@ image:
 ---
 As a research staff at Institut für Erdmessung (IfE), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
-Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.
+Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. {{< hl >}}All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.{{< hl >}}
 
 Please note that I will only supervise **English-written** theses.
 
 ![© NASA/Hofmann](https://www.ife.uni-hannover.de/typo3temp/_processed_/1/c/csm_d225b504a2686f8f997ab064cbbb399822e166e9-fp-3-1-0-0_16f4aeaedf.jpg)
 
 # Open Topics
+
+The following topics are open:
+
+:page_with_curl: High-integrity GNSS/IMU localization using interval analysis
+
+:page_with_curl: Bounding the residual tropospheric error by interval analysis
+
+:page_with_curl: Overbounding GNSS/IMU/Odometer integration with applications to urban navigation
+
+
 
 ## Topic 1: High-integrity GNSS/IMU localization using interval analysis
 
