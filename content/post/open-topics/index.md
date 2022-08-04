@@ -92,7 +92,7 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 * Rózsa, Szabolcs, et al. "An advanced residual error model for tropospheric delay estimation." *GPS Solutions* 24.4 (2020): 1-15.
 * Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." *UNB geodesy and geomatics engineering technical report* (199) 10 (1999).
 
-![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
+![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png "Distribution of interval bounds for different meteorological parameters in Germany")
 
 > Interested? Reach out to me! [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
 
