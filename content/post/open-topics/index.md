@@ -26,9 +26,9 @@ Please note that I will only supervise **English-written** theses.
 
 The following topics are open:
 
-* :page_with_curl: *High-integrity GNSS/IMU localization using interval analysis*
-* :page_with_curl: *Bounding the residual tropospheric error by interval analysis*
-* :page_with_curl: *Overbounding GNSS/IMU/Odometer integration with applications to urban navigation*
+* \[x] *High-integrity GNSS/IMU localization using interval analysis*
+* \[x] *Bounding the residual tropospheric error by interval analysis*
+* \[x] *Overbounding GNSS/IMU/Odometer integration with applications to urban navigation*
 
 
 
