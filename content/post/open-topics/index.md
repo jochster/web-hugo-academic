@@ -14,7 +14,7 @@ image:
   preview_only: false
   caption: ""
 ---
-As a research staff at Institut für Erdmessung (IfE), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
+As a research staff at[ Institut für Erdmessung (IfE)](ife.uni-hannover.de), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
 Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.
 
@@ -30,8 +30,6 @@ The following topics are open:
 * :scroll: *Bounding the residual tropospheric error by interval analysis*
 * :scroll: *Overbounding GNSS/IMU/Odometer integration with applications to urban navigation*
 
-
-
 ## Topic 1: High-integrity GNSS/IMU localization using interval analysis
 
 #### **Supervisor**
@@ -44,17 +42,15 @@ Jingyao Su
 
 #### Motivation
 
-
-
 #### Tasks
 
 #### Related Works
 
 
 
+\---
 
 
-\------------------------------------------------------
 
 ## Topic 2: Bounding the residual tropospheric error by interval analysis
 
@@ -87,7 +83,9 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 
 
 
-\---------------------------------------------
+\---
+
+
 
 ## Topic 3: Overbounding GNSS/IMU/Odometer integration with applications to urban navigation
 
