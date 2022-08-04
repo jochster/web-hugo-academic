@@ -24,7 +24,7 @@ experience:
     date_start: 2019-04-16
     date_end: 2019-10-15
     description: >-2
-        Within the context of research topic: Statistical modelling and analysis for GNSS positioning accuracy in urban area. 
+        Within the context of research topic: *Statistical modelling and analysis for GNSS positioning accuracy in urban area*. 
         Responsibilities included:
         - Organization, conduction and documentation of GNSS measurement campaigns
         - Data analysis and stochastical modeling
