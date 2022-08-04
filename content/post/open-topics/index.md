@@ -56,9 +56,8 @@ Reliable positioning is a key issue for intelligent vehicle navigation. Rather t
 
 #### Related Works
 
-Drevelle, V., & Bonnifait, P. (2011). A set-membership approach for high integrity height-aided satellite positioning. *GPS solutions*, 15(4), 357-368.
-
-Luc Jaulin, Benoît Desrochers, Simon Rohou, Jordan Ninin, Olivier Reynet. IAMOOC: Interval analysis with applications to parameter estimation and robot localization (url: https://www.ensta-bretagne.fr/jaulin/iamooc.html)
+* Drevelle, V., & Bonnifait, P. (2011). A set-membership approach for high integrity height-aided satellite positioning. *GPS solutions*, 15(4), 357-368.
+* Luc Jaulin, Benoît Desrochers, Simon Rohou, Jordan Ninin, Olivier Reynet. IAMOOC: Interval analysis with applications to parameter estimation and robot localization (url: https://www.ensta-bretagne.fr/jaulin/iamooc.html)
 
 
 
