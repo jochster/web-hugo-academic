@@ -5,7 +5,8 @@ avatar_filename: portrait_square.jpg
 bio: My research interests include GNSS navigation, integrity monitoring and
   uncertainty modeling with interval mathematics.
 interests:
-  - GNSS integrity monitoring
+  - GNSS navigation
+  - alternative integrity approach
   - high-integrity localization for autonomous vehicles
   - uncertainty bounding and propagating
   - interval mathematics
@@ -51,7 +52,7 @@ highlight_name: true
 ---
 I am a doctoral researcher at the Institute of Geodesy (IfE), Leibniz Univerisity Hannover. 
 
-Currently, I'm with the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG). In the RTG, my research topic is ***[Bounding and Propagating Uncertainty with Interval Mathematics](/project/bounding-and-propagating-uncertainty-with-interval-mathematics/)***. The aim is to investigate the uncertainty for [GNSS](/tag/gnss/) with [interval mathematics](/tag/interval-mathematics/) and [set theory](/tag/set-theory/), based on which, an alternative [integrity ](/tag/integrity/)approach will be developed for future autonomous navigation applications.
+Currently, I'm with the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG). In the RTG, my research topic is *[Bounding and Propagating Uncertainty with Interval Mathematics](/project/bounding-and-propagating-uncertainty-with-interval-mathematics/)*. The aim is to investigate the uncertainty for [GNSS](/tag/gnss/) with [interval mathematics](/tag/interval-mathematics/) and [set theory](/tag/set-theory/), based on which, an alternative [integrity ](/tag/integrity/)approach will be developed for future autonomous navigation applications.
 
 Before joining IfE and i.c.sens, I earned my Master of Science degree in [Earth Oriented Space and Science Technology (ESPACE)](https://www.asg.ed.tum.de/iapg/espace/) from Technical University of Munich (TUM). I defended my Master's thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals* under the supervision of [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/) in 2020.
 
