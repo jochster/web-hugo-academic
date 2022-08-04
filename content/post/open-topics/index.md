@@ -22,7 +22,7 @@ Please note that I will only supervise **English-written** theses.
 
 ![](https://www.ife.uni-hannover.de/typo3conf/ext/luh_website/Resources/Public/Images/Logo/luh_logo.svg)
 
-# Topics
+# Open Topics
 
 ## Topic 1: High-integrity GNSS/IMU localization using interval analysis
 
@@ -36,13 +36,9 @@ Jingyao Su
 
 #### Motivation
 
-
-
 #### Tasks
 
-
-
-\-------------------------------------------------------
+\------------------------------------------------------
 
 ## Topic 2: Bounding the residual tropospheric error by interval analysis
 
@@ -73,9 +69,7 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 
 ![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
 
-
-
-\----------------------------------------------
+\---------------------------------------------
 
 ## Topic 3: Overbounding GNSS/IMU/Odometer integration with applications to urban navigation
 
