@@ -9,7 +9,7 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured.png
+  filename: ifelogo-publ.jpg
   focal_point: Smart
   preview_only: false
   caption: ©Jingyao Su
@@ -20,7 +20,9 @@ Currently, the following topics are open, which, nevertheless, are not necessari
 
 Please note that I will only supervise **English-written** theses.
 
-![](https://www.ife.uni-hannover.de/typo3conf/ext/luh_website/Resources/Public/Images/Logo/luh_logo.svg)
+![](loco_comb.png)
+
+![](https://www.ife.uni-hannover.de/typo3temp/_processed_/1/c/csm_d225b504a2686f8f997ab064cbbb399822e166e9-fp-3-1-0-0_16f4aeaedf.jpg)
 
 # Open Topics
 
