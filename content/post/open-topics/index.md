@@ -16,9 +16,9 @@ image:
 ---
 As a research staff at Institut für Erdmessung (IfE), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
-Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. 
+Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.
 
-Please note that I will only supervise English-written theses.
+Please note that I will only supervise **English-written** theses.
 
 ![](https://www.ife.uni-hannover.de/typo3conf/ext/luh_website/Resources/Public/Images/Logo/luh_logo.svg)
 
@@ -42,6 +42,8 @@ Jingyao Su
 
 
 
+\-------------------------------------------------------
+
 ## Topic 2: Bounding the residual tropospheric error by interval analysis
 
 #### Supervisor
@@ -63,7 +65,17 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 3. Implementation of the interval-based sensitivity analysis for MOPS, GPT2w and ESA tropospheric model.
 4. Assessment and validation of the bounding results.
 
+#### Related Works
 
+* Su J., Schön S. (2021): [Bounding the residual tropospheric error by interval analysis](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/), IAG 2021 - Scientific Assembly of the International Association of Geodesy, June 28 - July 2, 2021, Beijing, China
+* Rózsa, Szabolcs, et al. "An advanced residual error model for tropospheric delay estimation." GPS Solutions 24.4 (2020): 1-15.
+* Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." UNB geodesy and geomatics engineering technical report (199) 10 (1999).
+
+![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
+
+
+
+\----------------------------------------------
 
 ## Topic 3: Overbounding GNSS/IMU/Odometer integration with applications to urban navigation
 
@@ -86,3 +98,9 @@ The integration of GNSS with Inertial Navigation Systems (INS) has the potential
 3. Data analysis in terms of overbounding hardware noise of different GNSS receivers
 4. Data analysis in terms of overbounding uncertainty of IMU/odometer
 5. Implementation of a robust extended Kalman filter with augmented state estimation
+
+#### Related Works
+
+* Blanch, Juan, Todd Walter, and Per Enge. "Gaussian bounds of sample distributions for integrity analysis." IEEE Transactions on Aerospace and Electronic Systems 55.4 (2018): 1806-1815.
+* Langel, Steve, Omar García Crespillo, and Mathieu Joerger. "Overbounding the effect of uncertain Gauss-Markov noise in Kalman filtering." NAVIGATION, Journal of the Institute of Navigation 68.2 (2021): 259-276.
+* Gallon, Elisa, Mathieu Joerger, and Boris Pervan. "Development of Stochastic IMU Error Models for INS/GNSS Integration." Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, MI, USA. 2021.
