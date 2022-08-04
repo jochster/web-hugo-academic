@@ -4,7 +4,7 @@ date: 2022-08-04T11:59:49.032Z
 summary: Potential topics for **master's thesis** and **Studienarbeit** at
   Institut für Erdmessung. Master students from Leibniz University Hannover are
   welcome to reach out in case of interest.
-draft: true
+draft: false
 featured: false
 authors:
   - admin
