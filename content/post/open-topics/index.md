@@ -12,7 +12,7 @@ image:
   filename: ifelogo-publ.jpg
   focal_point: Smart
   preview_only: false
-  caption: ©Jingyao Su
+  caption: ""
 ---
 As a research staff at Institut für Erdmessung (IfE), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
@@ -77,7 +77,7 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 * Rózsa, Szabolcs, et al. "An advanced residual error model for tropospheric delay estimation." *GPS Solutions* 24.4 (2020): 1-15.
 * Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." *UNB geodesy and geomatics engineering technical report* (199) 10 (1999).
 
-![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
+![]()
 
 
 
