@@ -36,7 +36,15 @@ Jingyao Su
 
 #### Motivation
 
+
+
 #### Tasks
+
+#### Related Works
+
+
+
+
 
 \------------------------------------------------------
 
@@ -63,11 +71,13 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 
 #### Related Works
 
-* Su J., Schön S. (2021): [Bounding the residual tropospheric error by interval analysis](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/), IAG 2021 - Scientific Assembly of the International Association of Geodesy, June 28 - July 2, 2021, Beijing, China
-* Rózsa, Szabolcs, et al. "An advanced residual error model for tropospheric delay estimation." GPS Solutions 24.4 (2020): 1-15.
-* Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." UNB geodesy and geomatics engineering technical report (199) 10 (1999).
+* Su J., Schön S. (2021): [Bounding the residual tropospheric error by interval analysis](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/), *IAG 2021 - Scientific Assembly of the International Association of Geodesy*, June 28 - July 2, 2021, Beijing, China
+* Rózsa, Szabolcs, et al. "An advanced residual error model for tropospheric delay estimation." *GPS Solutions* 24.4 (2020): 1-15.
+* Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." *UNB geodesy and geomatics engineering technical report* (199) 10 (1999).
 
 ![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
+
+
 
 \---------------------------------------------
 
@@ -95,6 +105,6 @@ The integration of GNSS with Inertial Navigation Systems (INS) has the potential
 
 #### Related Works
 
-* Blanch, Juan, Todd Walter, and Per Enge. "Gaussian bounds of sample distributions for integrity analysis." IEEE Transactions on Aerospace and Electronic Systems 55.4 (2018): 1806-1815.
-* Langel, Steve, Omar García Crespillo, and Mathieu Joerger. "Overbounding the effect of uncertain Gauss-Markov noise in Kalman filtering." NAVIGATION, Journal of the Institute of Navigation 68.2 (2021): 259-276.
-* Gallon, Elisa, Mathieu Joerger, and Boris Pervan. "Development of Stochastic IMU Error Models for INS/GNSS Integration." Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, MI, USA. 2021.
+* Blanch, Juan, Todd Walter, and Per Enge. "Gaussian bounds of sample distributions for integrity analysis." *IEEE Transactions on Aerospace and Electronic Systems* 55.4 (2018): 1806-1815.
+* Langel, Steve, Omar García Crespillo, and Mathieu Joerger. "Overbounding the effect of uncertain Gauss-Markov noise in Kalman filtering." *NAVIGATION, Journal of the Institute of Navigation* 68.2 (2021): 259-276.
+* Gallon, Elisa, Mathieu Joerger, and Boris Pervan. "Development of Stochastic IMU Error Models for INS/GNSS Integration." *Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)*, St. Louis, MI, USA. 2021.
