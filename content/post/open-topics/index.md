@@ -25,27 +25,37 @@ Please note that I will only supervise English-written theses.
 
 ## Topic 1: High-integrity GNSS/IMU localization using interval analysis
 
-Supervisor : Prof. Steffen Schön 
+#### **Supervisor**
 
-Co-Supervisor : Jingyao Su
+Prof. Steffen Schön 
 
-Motivation:
+#### **Co-Supervisor**
 
-Tasks
+Jingyao Su
+
+#### Motivation
+
+
+
+#### Tasks
 
 
 
 ## Topic 2: Bounding the residual tropospheric error by interval analysis
 
-Supervisor : Prof. Steffen Schön 
+#### Supervisor
 
-Co-Supervisor : Jingyao Su
+Prof. Steffen Schön 
 
-Motivation: 
+#### Co-Supervisor
+
+Jingyao Su
+
+#### Motivation
 
 GNSS integrity monitoring requires proper bounding to characterize all ranging error sources. Unlike classical approaches based on probabilistic assumptions, our alternative integrity approach depends on deterministic interval bounds as inputs. The intrinsically linear uncertainty propagation with intervals is adequate to describe remaining systematic uncertainty, the so-called imprecision. The method of interval analysis can be used to derive the required intervals in order to quantify and bound the residual error for empirical troposphere models. To this end, long-term statistics against on-site measurements should be performed to estimate the interval bounds of meteorological parameters that are needed as input to the troposphere models.
 
-Tasks: 
+#### Tasks
 
 1. Literature review of troposphere delay, including different empirical models and the modeling methods for the residual tropospheric error. 
 2. Statistical analysis of meteorological measurements (climate data, radiosonde data). How to model their uncertainty?
@@ -56,15 +66,19 @@ Tasks:
 
 ## Topic 3: Overbounding GNSS/IMU/Odometer integration with applications to urban navigation
 
-Supervisor : Prof. Steffen Schön 
+#### Supervisor
 
-Co-Supervisor : Jingyao Su
+Prof. Steffen Schön 
 
-Motivation: 
+#### Co-Supervisor
+
+Jingyao Su
+
+#### Motivation
 
 The integration of GNSS with Inertial Navigation Systems (INS) has the potential to achieve high levels of continuity and availability as compared to standalone GNSS and therefore to satisfy stringent navigation requirements. The integrity of GNSS/INS integration, measuring the trustworthy of navigation solutions, is still to be investigated. This information is very important for safety-critical applications such as civil aviation and autonomous driving. GNSS-alone integrity studies have been developing an overbounding method that bounds the error in range domain, and guarantees the overbound in the position domain. This topic is to apply this method in the analysis for receiver hardware noise and extend to inertial sensors (IMU) and odometer.
 
-Tasks: 
+#### Tasks
 
 1. Literature review of GNSS/IMU/Odometer uncertainty modeling and bounding methods, including the CDF overbounding, as well as Autocorrelation Function (ACF)/Power Spectral Density (PSD)/Allan Variance methods. What are the advantages and disadvantages for different sensors? 
 2. Implementation of overbounding agorithms in MATLAB, such as CDF, ACF, PSD, Allan Variance methods.
