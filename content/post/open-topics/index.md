@@ -9,9 +9,10 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: ©Jingyao Su
 ---
 As a research staff at Institut für Erdmessung (IfE), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
