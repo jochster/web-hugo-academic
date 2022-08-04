@@ -16,7 +16,9 @@ image:
 ---
 As a research staff at[ Institut für Erdmessung (IfE)](https://ife.uni-hannover.de), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
-Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. {{< hl >}} All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.{{< /hl >}}
+Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.
+
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
 
 Please note that I will only supervise **English-written** theses.
 
@@ -25,7 +27,7 @@ Please note that I will only supervise **English-written** theses.
 # Open Topics
 
 > The following topics are open:
-
+>
 > * *High-integrity GNSS/IMU localization using interval analysis* :scroll:
 > * *Bounding the residual tropospheric error by interval analysis* :scroll:
 > * *Overbounding GNSS/IMU/Odometer integration with applications to urban navigation* :scroll:
@@ -58,8 +60,6 @@ Reliable positioning is a key issue for intelligent vehicle navigation. Rather t
 
 * Drevelle, V., & Bonnifait, P. (2011). A set-membership approach for high integrity height-aided satellite positioning. *GPS solutions*, 15(4), 357-368.
 * Luc Jaulin, Benoît Desrochers, Simon Rohou, Jordan Ninin, Olivier Reynet. IAMOOC: Interval analysis with applications to parameter estimation and robot localization (url: https://www.ensta-bretagne.fr/jaulin/iamooc.html)
-
-
 
 ![[Drevelle, 2011] Bird’s eye view of the trajectory. Boxes are bounding boxes of nonrobust solution sets. Reference trajectory is in black](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10291-010-0195-3/MediaObjects/10291_2010_195_Fig7_HTML.gif)
 
