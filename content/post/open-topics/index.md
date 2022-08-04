@@ -9,7 +9,7 @@ featured: false
 authors:
   - admin
 image:
-  filename: ifelogo-publ.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: ""
