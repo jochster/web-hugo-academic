@@ -61,6 +61,9 @@ Reliable positioning is a key issue for intelligent vehicle navigation. Rather t
 
 ![[Drevelle, 2011] Bird’s eye view of the trajectory. Boxes are bounding boxes of nonrobust solution sets. Reference trajectory is in black](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10291-010-0195-3/MediaObjects/10291_2010_195_Fig7_HTML.gif)
 
+Interested? Reach me via [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
+
+
 - - -
 
 ## Topic 2: Bounding the residual tropospheric error by interval analysis
@@ -91,6 +94,7 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 * Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." *UNB geodesy and geomatics engineering technical report* (199) 10 (1999).
 
 ![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
+Interested? Reach me via [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
 
 - - -
 
@@ -123,3 +127,4 @@ The integration of GNSS with Inertial Navigation Systems (INS) has the potential
 * Gallon, Elisa, Mathieu Joerger, and Boris Pervan. "Development of Stochastic IMU Error Models for INS/GNSS Integration." *Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)*, St. Louis, MI, USA. 2021.
 
 ![Error bounding for Accelerometer ](acc-overbound.jpg)
+Interested? Reach me via [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
