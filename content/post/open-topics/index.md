@@ -14,7 +14,7 @@ image:
   preview_only: false
   caption: ""
 ---
-As a research staff at[ Institut für Erdmessung (IfE)](ife.uni-hannover.de), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
+As a research staff at[ Institut für Erdmessung (IfE)](https://ife.uni-hannover.de), I am offering opportunities for **master's thesis** and **Studienarbeit**. Students of the master's program *Geodesy and Geoinformation*, as well as other programs at Leibniz University Hannover are welcome to reach out in case of interest.
 
 Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. {{< hl >}}All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.{{< hl >}}
 
@@ -26,9 +26,11 @@ Please note that I will only supervise **English-written** theses.
 
 The following topics are open:
 
-- [x] *High-integrity GNSS/IMU localization using interval analysis* :scroll:
-- [x] *Bounding the residual tropospheric error by interval analysis* :scroll:
-- [x] *Overbounding GNSS/IMU/Odometer integration with applications to urban navigation* :scroll:
+* *High-integrity GNSS/IMU localization using interval analysis* :scroll:
+* *Bounding the residual tropospheric error by interval analysis* :scroll:
+* *Overbounding GNSS/IMU/Odometer integration with applications to urban navigation* :scroll:
+
+- - -
 
 ## Topic 1: High-integrity GNSS/IMU localization using interval analysis
 
@@ -42,15 +44,27 @@ Jingyao Su
 
 #### Motivation
 
+Reliable positioning is a key issue for intelligent vehicle navigation. Rather than the classical point estimations, interval-based positioning methods have shown to be capable of computing relevant confidence domains used for integrity monitoring in environments which are challenging for Global Navigation Satellite System (GNSS). GNSS measurements with constraints from 3D-maps, road lanes as well as digital elevation models have been studied by making use of interval analysis to solve the constraint satisfaction problem based on contractions and bisections. By applying the improved observation bounding method developed at IfE, this topic will investigate the uncertainty of nonlinearity of GNSS problems.  GNSS/IMU integration will be taken into consideration for the level of master's thesis. 
+
 #### Tasks
+
+1. Literature review of interval-based localization methods 
+2. Understand the method of interval analysis (contraction, set inversion, SIVIA, thick SIVIA)
+3. Implementation of SIVIA for GNSS localization
+4. Implementation of SIVIA for GNSS/IMU localization
+5. Assessment and validation of the results
 
 #### Related Works
 
+Drevelle, V., & Bonnifait, P. (2011). A set-membership approach for high integrity height-aided satellite positioning. *GPS solutions*, 15(4), 357-368.
+
+Luc Jaulin, Benoît Desrochers, Simon Rohou, Jordan Ninin, Olivier Reynet. IAMOOC: Interval analysis with applications to parameter estimation and robot localization (url: https://www.ensta-bretagne.fr/jaulin/iamooc.html)
 
 
----
 
+![[Drevelle, 2011] Bird’s eye view of the trajectory. Boxes are bounding boxes of nonrobust solution sets. Reference trajectory is in black](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10291-010-0195-3/MediaObjects/10291_2010_195_Fig7_HTML.gif)
 
+- - -
 
 ## Topic 2: Bounding the residual tropospheric error by interval analysis
 
@@ -81,11 +95,7 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 
 ![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
 
-
-
----
-
-
+- - -
 
 ## Topic 3: Overbounding GNSS/IMU/Odometer integration with applications to urban navigation
 
