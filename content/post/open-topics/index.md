@@ -18,6 +18,8 @@ As a research staff at[ Institut für Erdmessung (IfE)](https://ife.uni-hannover
 
 Currently, the following topics are open, which, nevertheless, are not necessarily predetermined and can be adapted to your own preferences and ideas. All the topics can be taken as either a master's thesis or adapted as a Studienarbeit.
 
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
+
 Please note that I will only supervise **English-written** theses.
 
 ![© NASA/Hofmann](https://www.ife.uni-hannover.de/typo3temp/_processed_/1/c/csm_d225b504a2686f8f997ab064cbbb399822e166e9-fp-3-1-0-0_16f4aeaedf.jpg)
