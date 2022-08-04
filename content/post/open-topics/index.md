@@ -59,10 +59,9 @@ Reliable positioning is a key issue for intelligent vehicle navigation. Rather t
 * Drevelle, V., & Bonnifait, P. (2011). A set-membership approach for high integrity height-aided satellite positioning. *GPS solutions*, 15(4), 357-368.
 * Luc Jaulin, Benoît Desrochers, Simon Rohou, Jordan Ninin, Olivier Reynet. [IAMOOC: Interval analysis with applications to parameter estimation and robot localization](https://www.ensta-bretagne.fr/jaulin/iamooc.html)
 
-![[Drevelle, 2011] Bird’s eye view of the trajectory. Boxes are bounding boxes of nonrobust solution sets. Reference trajectory is in black](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10291-010-0195-3/MediaObjects/10291_2010_195_Fig7_HTML.gif)
+![[Drevelle, 2011] Bird’s eye view of the trajectory. Boxes are bounding boxes of nonrobust solution sets. Reference trajectory is in black](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10291-010-0195-3/MediaObjects/10291_2010_195_Fig7_HTML.gif "[Drevelle, 2011] Bird’s eye view of the trajectory. Boxes are bounding boxes of nonrobust solution sets. Reference trajectory is in black")
 
-Interested? Reach me via [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
-
+> Interested? Reach out to me! [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
 
 - - -
 
@@ -94,7 +93,8 @@ GNSS integrity monitoring requires proper bounding to characterize all ranging e
 * Mendes, V. B. "Modeling the neutral-atmospheric propagation delay in radiometric space techniques." *UNB geodesy and geomatics engineering technical report* (199) 10 (1999).
 
 ![](/publication/bounding-the-residual-tropospheric-error-by-interval-analysis/featured.png)
-Interested? Reach me via [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
+
+> Interested? Reach out to me! [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
 
 - - -
 
@@ -126,5 +126,6 @@ The integration of GNSS with Inertial Navigation Systems (INS) has the potential
 * Langel, Steve, Omar García Crespillo, and Mathieu Joerger. "Overbounding the effect of uncertain Gauss-Markov noise in Kalman filtering." *NAVIGATION, Journal of the Institute of Navigation* 68.2 (2021): 259-276.
 * Gallon, Elisa, Mathieu Joerger, and Boris Pervan. "Development of Stochastic IMU Error Models for INS/GNSS Integration." *Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)*, St. Louis, MI, USA. 2021.
 
-![Error bounding for Accelerometer ](acc-overbound.jpg)
-Interested? Reach me via [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
+![Error bounding for Accelerometer ](acc-overbound.jpg "Error bounding for Accelerometer ")
+
+> Interested? Reach out to me! [{{< icon name="paper-plane" pack="fas" >}}](mailto:suj@ife.uni-hannover.de)
