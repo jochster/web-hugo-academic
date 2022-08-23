@@ -6,8 +6,7 @@ publication_types:
 authors:
   - admin
   - schoen
-publication: In *10th ESA Workshop on Satellite Navigation Technologies and
-  European Workshop on GNSS Signals and Signal Processing (NAVITEC)*
+publication: In *2022 10th Workshop on Satellite Navigation Technology (NAVITEC)*
 publication_short: In *NAVITEC 2022*
 abstract: >-
   Uncertainty modeling and bounding are of vital importance for high-integrity
