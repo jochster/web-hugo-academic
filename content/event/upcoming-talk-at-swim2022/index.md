@@ -1,5 +1,5 @@
 ---
-title: "How to determine uncertainty interval: Practice in GNSS and LiDAR"
+title: "How to determine uncertainty interval: Practice in GNSS and LiDAR localization"
 abstract: Talk at 13th Summer Workshop on Interval Methods (SWIM)
 location: Hannover, Germany
 date: 2022-07-19T19:25:19.826Z
