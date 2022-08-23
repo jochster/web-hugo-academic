@@ -36,6 +36,7 @@ summary: "This paper introduces two deterministic approaches for GNSS
   method theoretically and experimentally with simulated and real measurements.
   "
 date: 2022-04-07T17:39:00.969Z
+doi: 10.1109/NAVITEC53682.2022.9847545
 links:
   - name: Conference
     url: https://atpi.eventsair.com/navitec-2022
