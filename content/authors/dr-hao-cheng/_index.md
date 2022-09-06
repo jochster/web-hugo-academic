@@ -1,7 +1,6 @@
 ---
 title: Dr. Hao Cheng
-role: Postdoc researcher at Institute of Cartography and Geoinformatics (IKG),
-  Leibniz University Hannover
+role: Postdoc researcher at ITC, University of Twente
 avatar_filename: avatar
 bio: Research interests include deep learning of road user behavior modeling in
   intelligent transport systems and autonomous driving and safety analysis
