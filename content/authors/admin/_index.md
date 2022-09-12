@@ -56,4 +56,4 @@ Currently, I'm with the research training group (RTG) **Integrity and Collaborat
 
 Before joining IfE and i.c.sens, I earned my Master of Science degree in [Earth Oriented Space and Science Technology (ESPACE)](https://www.asg.ed.tum.de/iapg/espace/) from Technical University of Munich (TUM). I defended my Master's thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals* under the supervision of [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/) in 2020.
 
-You may seek more information from my social links {{< icon name="arrow-left" pack="fas" >}}, or my {{< icon name="magnifying-glass-location" pack="fas" >}} [CV](/uploads/CV_academic_compact-20220912.pdf).
+You may seek more information from my social links {{< icon name="arrow-left" pack="fas" >}}, or my {{< icon name="magnifying-glass-location" pack="fas" >}}[CV](/uploads/CV_academic_compact-20220912.pdf).
