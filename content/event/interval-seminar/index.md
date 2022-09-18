@@ -1,6 +1,5 @@
 ---
-title: Upcoming talk at International Online Seminar on Interval Methods in
-  Control Engineering
+title: Upcoming talk at online interval seminars
 abstract: Upcoming talk at International Online Seminar on Interval Methods in
   Control Engineering
 location: Online
