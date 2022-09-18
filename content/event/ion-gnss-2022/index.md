@@ -1,5 +1,6 @@
 ---
-title: ION GNSS+ 2022
+title: Advances in Deterministic Approaches for Bounding Uncertainty and
+  Integrity Monitoring of Autonomous Navigation
 abstract: "Critical issues for the integrity monitoring of any autonomous
   navigation applications include adequate uncertainty budget in the observation
   domain, the redundancy for the determination of the navigational states, as
