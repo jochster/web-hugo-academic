@@ -9,7 +9,7 @@ authors:
 doi: 10.33012/2022.18418
 publication: Proceedings of the 35th International Technical Meeting of the
   Satellite Division of The Institute of Navigation (ION GNSS+ 2022)
-publication_short: ION GNSS+ 2022
+publication_short: In *ION GNSS+ 2022*
 abstract: "Critical issues for the integrity monitoring of any autonomous
   navigation applications include adequate uncertainty budget in the observation
   domain, the redundancy for the determination of the navigational states, as
