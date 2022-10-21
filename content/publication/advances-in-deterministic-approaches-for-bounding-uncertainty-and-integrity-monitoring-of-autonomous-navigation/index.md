@@ -46,7 +46,7 @@ summary: "In this contribution, we aim to demonstrate the feasibility of
   of several key aspects, i.e., the handling of GNSS multipath effect in the
   urban environment, fault detection and exclusion, and further consideration of
   applying weighting models. "
-date: 2022-06-26T16:52:29.231Z
+date: 2022-09-20T16:52:00.000Z
 links:
   - name: Conference
     url: https://www.ion.org/gnss/index.cfm
