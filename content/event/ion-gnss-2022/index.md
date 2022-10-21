@@ -1,7 +1,7 @@
 ---
 title: Advances in Deterministic Approaches for Bounding Uncertainty and
   Integrity Monitoring of Autonomous Navigation
-abstract: Upcoming talk at ION GNSS+ 2022
+abstract: Talk at ION GNSS+ 2022
 location: Denver, Colorado, US
 date: 2022-09-21T06:35:15.734Z
 date_end: 2022-09-21T06:55:31.077Z
