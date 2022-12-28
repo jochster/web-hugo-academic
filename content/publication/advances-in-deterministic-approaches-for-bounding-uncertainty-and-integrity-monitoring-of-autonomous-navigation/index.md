@@ -38,7 +38,7 @@ tags:
 projects:
   - icsens
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: "In this contribution, we aim to demonstrate the feasibility of
