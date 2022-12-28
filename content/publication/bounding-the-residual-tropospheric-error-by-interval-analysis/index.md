@@ -6,7 +6,7 @@ authors:
   - admin
   - schoen
 doi: https://doi.org/10.1007/1345_2022_184
-publication: "*International Association of Geodesy Symposia*"
+publication: In *International Association of Geodesy Symposia*
 abstract: >-
   GNSS integrity monitoring requires proper bounding to characterize all ranging
   error sources. Unlike classical approaches based on probabilistic assumptions,
