@@ -39,7 +39,7 @@ education:
   courses:
     - course: Ph.D. candidate in Geodesy and Geoinformation
       institution: Leibniz University Hannover, Germany
-      year: expected in 2023
+      year: expected in 2024
     - course: M.Sc in Earth Oriented Space Science and Technology (ESPACE)
       institution: Technical University of Munich, Germany
       year: 2020
