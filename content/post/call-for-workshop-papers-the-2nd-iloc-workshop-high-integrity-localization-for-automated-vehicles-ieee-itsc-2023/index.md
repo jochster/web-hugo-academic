@@ -2,10 +2,15 @@
 title: "Call for workshop papers: the 2nd iLoc workshop - High-integrity
   Localization for Automated Vehicles (IEEE ITSC-2023)"
 date: 2023-04-19T18:50:10.961Z
+summary: "The 2nd workshop on ***iLoc: High-integrity Localization for Automated
+  Vehicles*** at the 26th IEEE International Conference on Intelligent
+  Transportation Systems."
 draft: false
 featured: false
 authors:
   - admin
+projects:
+  - icsens
 image:
   filename: featured.png
   focal_point: Smart
