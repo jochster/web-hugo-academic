@@ -2,6 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Visiting researcher
+    company: Virginia Tech, The Navigation laboratory for Autonomous Vehicle inTegrity (NAViTi)
+    company_url: https://www.vt.edu
+    company_logo: vt
+    location: Blacksburg, VA, USA
+    date_start: 2020-05
+    date_end: ""
+    description: ""
   - title: Doctoral researcher
     company: Leibniz University Hannover, Institute of Geodesy (IfE)
     company_url: https://www.uni-hannover.de
@@ -14,8 +22,8 @@ experience:
         Within the context of DFG research training group [*Integrity and Collaboration in Dynamic Sensor Networks* (i.c.sens)](https://icsens.uni-hannover.de).
         Responsibilities included:
         - Research and scientific collaborations in the RTG
-        - Organization, setup, conduction and documentation of multi-sensory measurement compaigns (Mapathon)
-        - Participation in teaching activties at the [Professorship for positioning and navigation](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/) of [IfE](https://ife.uni-hannover.de)
+        - Organization, setup, conduction and documentation of multi-sensory measurement campaigns (Mapathon)
+        - Participation in teaching activities at the [Work group for positioning and navigation](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/) of [IfE](https://ife.uni-hannover.de)
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
@@ -24,7 +32,7 @@ experience:
     date_start: 2019-04-16
     date_end: 2019-10-15
     description: >-2
-        Within the context of research topic: *Statistical modelling and analysis for GNSS positioning accuracy in urban area*. 
+        Within the context of research topic: *Statistical modeling and analysis for GNSS positioning accuracy in urban area*. 
         Responsibilities included:
         - Organization, conduction and documentation of GNSS measurement campaigns
         - Data analysis and stochastical modeling
@@ -37,7 +45,7 @@ experience:
     date_start: 2018-07-01
     date_end: 2018-08-31
     description: >-2
-        I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview). There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in excercises of data processing and improved my programming skills.
+        I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview). There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in exercises of data processing and improved my programming skills.
   - title: Research assistant
     company: Technical University of Munich, Institute for Astronomical and Physical Geodesy (IAPG) 
     company_url: https://www.tum.de/
@@ -59,7 +67,7 @@ experience:
     description: >-2
         Responsibilities included:
         - Projects in topographic surveying and mapping, and geophysical investigation of pipelines
-        - Development and maintainance of local geoinformation database
+        - Development and maintenance of local geoinformation database
         - Creation of technical reports
 widget_id: experience
 headless: true
