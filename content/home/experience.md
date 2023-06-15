@@ -23,7 +23,7 @@ experience:
         Responsibilities included:
         - Research and scientific collaborations in the RTG
         - Organization, setup, conduction and documentation of multi-sensory measurement campaigns (Mapathon)
-        - Participation in teaching activities at the [Work group for positioning and navigation](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/) of [IfE](https://ife.uni-hannover.de)
+        - Participation in teaching activities at the [Working group of positioning and navigation](https://www.ife.uni-hannover.de/en/research/positioning-and-navigation/) of [IfE](https://ife.uni-hannover.de)
   - title: R&D internship
     company: Robert Bosch Group
     company_url: https://www.bosch.de/
