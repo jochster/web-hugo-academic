@@ -7,7 +7,7 @@ experience:
     company_url: https://www.vt.edu
     company_logo: vt
     location: Blacksburg, VA, USA
-    date_start: 2020-05
+    date_start: 2023-05-15
     date_end: ""
     description: ""
   - title: Doctoral researcher
