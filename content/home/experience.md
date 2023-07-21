@@ -9,7 +9,7 @@ experience:
     location: Blacksburg, VA, USA
     date_start: 2023-05-15
     date_end: 2023-07-14
-    description: ""
+    description: I visited the Assured Vehicle Autonomy Lab (AVA) led by [Dr. Mathieu Joerger](https://www.aoe.vt.edu/people/faculty/joerger.html) in the [Kevin T. Crofton Department of Aerospace and Ocean Engineering](https://www.aoe.vt.edu/), Virginia Tech.
   - title: Doctoral researcher
     company: Leibniz University Hannover, Institute of Geodesy (IfE)
     company_url: https://www.uni-hannover.de
@@ -45,7 +45,8 @@ experience:
     date_start: 2018-07-01
     date_end: 2018-08-31
     description: >-2
-        I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview). There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in exercises of data processing and improved my programming skills.
+        I visited the [Real-Time GNSS](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/topics/real-time-gnss/) working group of [Prof. Maorong Ge](https://www.gfz-potsdam.de/en/staff/maorong.ge) at [Section 1.1: Space Geodetic Techniques](https://www.gfz-potsdam.de/en/section/space-geodetic-techniques/overview).
+    # There I gained a sounder understanding of GNSS techniques and connected with the scientific research community. With the supports from Ph.D students, I engaged in exercises of data processing and improved my programming skills.
   - title: Research assistant
     company: Technical University of Munich, Institute for Astronomical and Physical Geodesy (IAPG) 
     company_url: https://www.tum.de/
