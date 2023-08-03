@@ -6,9 +6,11 @@ weight: 35
 title: Dataset
 subtitle: 
 content:
-  page_type: dataset
+  page_type: event
   count: 5
   filters:
+    folders:
+      - dataset
     author: ""
     category: ""
     tag: ""
