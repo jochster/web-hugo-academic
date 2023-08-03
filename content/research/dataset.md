@@ -1,25 +1,15 @@
 ---
-widget: pages
+widget: portfolio
 widget_id: dataset
 headless: true
 weight: 35
 title: Dataset
 subtitle: 
 content:
-  page_type: event
-  count: 5
-  filters:
-    folders:
-      - dataset
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  offset: 0
-  order: desc
+  page_type: dataset
+  filter_default: 0
 design:
   view: 2
+  columns: "2"
+  flip_alt_rows: false
 ---
