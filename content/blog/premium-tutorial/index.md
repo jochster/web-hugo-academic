@@ -21,8 +21,8 @@ image:
 
 {{% callout note %}} 本文参考了以下教程，并在引用处注明
 
-* （yummy.best）[YouTube Premium介绍(内附保姆级开通教程)](https://yummy.best/youtube/)
-* (洋拉图OlduBil)[土区捡便宜必看：如何用OlduBil开土耳其虚拟银行卡？如何用Wise入金OlduBil？](https://youtu.be/J68nzGJwfWw)
+*(yummy.best) [YouTube Premium介绍(内附保姆级开通教程)](https://yummy.best/youtube/)
+*(洋拉图OlduBil) [土区捡便宜必看：如何用OlduBil开土耳其虚拟银行卡？如何用Wise入金OlduBil？](https://youtu.be/J68nzGJwfWw)
 {{% /callout %}}
 
   
