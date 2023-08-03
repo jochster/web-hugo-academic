@@ -1,5 +1,5 @@
 ---
-title: LUCOOP: Leibniz University Cooperative Perception and Urban Navigation Dataset
+title: LUCOOP - Leibniz University Cooperative Perception and Urban Navigation Dataset
 date: 2023-08-03T08:00:00.000Z
 draft: false
 featured: false
