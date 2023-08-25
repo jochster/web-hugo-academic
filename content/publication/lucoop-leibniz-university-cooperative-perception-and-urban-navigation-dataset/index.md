@@ -16,7 +16,7 @@ authors:
   - schoen
 doi: 10.1109/IV55152.2023.10186693
 publication: 2023 IEEE Intelligent Vehicles Symposium (IV)
-publication_short: IEEE IV 2023
+publication_short: In *IEEE IV 2023*
 abstract: Recently published datasets have been increasingly comprehensive with
   respect to their variety of simultaneously used sensors, traffic scenarios,
   environmental conditions, and provided annotations. However, these datasets
@@ -67,4 +67,18 @@ summary: "There is currently a lack of comprehensive, real-world, multi-vehicle
   time-synchronized multi-modal data collected by three interacting measurement
   vehicles. "
 date: 2023-07-27T07:17:00.000Z
+date: 2022-09-20T16:52:00.000Z
+links:
+  - name: Conference
+    url: https://2023.ieee-iv.org/
+    icon_pack: fas
+    icon: book
+  - name: PDF request
+    icon_pack: fas
+    icon: envelope
+    url: mailto:suj@ife.uni-hannover.de
+  - name: ResearchGate
+    url: https://www.researchgate.net/publication/372709998_LUCOOP_Leibniz_University_Cooperative_Perception_and_Urban_Navigation_Dataset
+    icon_pack: ai
+    icon: researchgate
 ---
