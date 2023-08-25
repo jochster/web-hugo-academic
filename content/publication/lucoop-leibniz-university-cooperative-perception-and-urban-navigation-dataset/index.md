@@ -7,11 +7,11 @@ authors:
   - jeldrik-axmann
   - rozhin-moftizadeh
   - admin
-  - benjamin-tennstedt
+  - Benjamin Tennstedt
   - qianqian-zou
   - yunshuang-yuan
-  - dominik-ernst
-  - pd-dr-hamza-akhatib
+  - Dominik Ernst
+  - Hamza Alkhatib
   - prof-claus-brenner
   - schoen
 doi: 10.1109/IV55152.2023.10186693
