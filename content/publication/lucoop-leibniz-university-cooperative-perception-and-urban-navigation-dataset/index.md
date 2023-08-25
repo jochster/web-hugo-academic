@@ -67,7 +67,6 @@ summary: "There is currently a lack of comprehensive, real-world, multi-vehicle
   time-synchronized multi-modal data collected by three interacting measurement
   vehicles. "
 date: 2023-07-27T07:17:00.000Z
-date: 2022-09-20T16:52:00.000Z
 links:
   - name: Conference
     url: https://2023.ieee-iv.org/
