@@ -7,7 +7,16 @@ authors:
   - jeldrik-axmann
   - rozhin-moftizadeh
   - admin
-  - ""
+  - benjamin-tennstedt
+  - qianqian-zou
+  - yunshuang-yuan
+  - dominik-ernst
+  - pd-dr-hamza-akhatib
+  - prof-claus-brenner
+  - schoen
+doi: 10.1109/IV55152.2023.10186693
+publication: 2023 IEEE Intelligent Vehicles Symposium (IV)
+publication_short: IEEE IV 2023
 abstract: Recently published datasets have been increasingly comprehensive with
   respect to their variety of simultaneously used sensors, traffic scenarios,
   environmental conditions, and provided annotations. However, these datasets
@@ -36,7 +45,7 @@ abstract: Recently published datasets have been increasingly comprehensive with
   measurements. Additionally, we offer 3D bounding box annotations for
   evaluating object detection approaches, as well as highly accurate ground
   truth poses for each vehicle throughout the measurement campaign.
-draft: true
+draft: false
 featured: false
 tags:
   - dataset
@@ -54,5 +63,5 @@ summary: "There is currently a lack of comprehensive, real-world, multi-vehicle
   fill this gap by introducing the novel LUCOOP dataset, which provides
   time-synchronized multi-modal data collected by three interacting measurement
   vehicles. "
-date: 2023-08-25T07:17:48.973Z
+date: 2023-07-27T07:17:00.000Z
 ---
