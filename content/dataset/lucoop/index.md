@@ -4,7 +4,16 @@ date: 2023-08-03T08:00:00.000Z
 draft: false
 featured: false
 authors:
+  - jeldrik-axmann
+  - rozhin-moftizadeh
   - admin
+  - Benjamin Tennstedt
+  - qianqian-zou
+  - yunshuang-yuan
+  - Dominik Ernst
+  - Hamza Alkhatib
+  - prof-claus-brenner
+  - schoen
 tags:
   - integrity
   - multi-sensor fusion
@@ -15,7 +24,7 @@ external_link: ""
 links:
   - url: https://data.uni-hannover.de/dataset/lucoop-leibniz-university-cooperative-perception-and-urban-navigation-dataset
     name: Data
-  - url: https://ieeexplore.ieee.org/abstract/document/10186693
+  - url: /publication/lucoop-leibniz-university-cooperative-perception-and-urban-navigation-dataset/
     name: Paper
 image:
   filename: featured
