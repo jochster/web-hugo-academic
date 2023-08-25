@@ -15,7 +15,7 @@ organizations:
     url: 'https://ikg.uni-hannover.de'
 
 # Short bio (displayed in user profile at end of posts)
-bio: the head of the Junior Research Group ``Automatic Methods for Fusion, Reduction and Consistent Combination of Complex Heterogeneous Geoinformation". His research interests are laser scanning, image processing, and pattern recognition.
+bio: the head of the Junior Research Group Automatic Methods for Fusion, Reduction and Consistent Combination of Complex Heterogeneous Geoinformation. His research interests are laser scanning, image processing, and pattern recognition.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
