@@ -48,9 +48,12 @@ abstract: Recently published datasets have been increasingly comprehensive with
 draft: false
 featured: false
 tags:
-  - dataset
+  - integrity
+  - multi-sensor fusion
+  - autonomous driving
+  - cooperative perception
   - urban navigation
-  - sensor fusion
+  - dataset
 projects:
   - icsens
 image:
