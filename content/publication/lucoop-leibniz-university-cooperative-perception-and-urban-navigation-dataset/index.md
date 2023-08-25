@@ -46,7 +46,7 @@ abstract: Recently published datasets have been increasingly comprehensive with
   evaluating object detection approaches, as well as highly accurate ground
   truth poses for each vehicle throughout the measurement campaign.
 draft: false
-featured: false
+featured: true
 tags:
   - integrity
   - multi-sensor fusion
