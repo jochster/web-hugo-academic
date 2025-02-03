@@ -2,7 +2,7 @@
 widget: accomplishments
 widget_id: awards
 headless: true 
-weight: 0
+weight: NaN
 title: Awards & Honors
 date_format: Jan 2006
 
